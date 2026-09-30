@@ -1,0 +1,28 @@
+name: update-events
+
+on:
+  schedule:
+    # 04:00 UTC = 06:00 (talvi) / 07:00 (kesä) Helsinkiä
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python3 scrape.py --out docs/events.json
+      - name: Commit updated list
+        run: |
+          git config user.name "keikkalista-bot"
+          git config user.email "keikkalista-bot@users.noreply.github.com"
+          git add docs/events.json
+          git diff --cached --quiet || git commit -m "Daily event update $(date -u +%F)"
+          git push

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "kulttuuritalo",
+    "name": "Kulttuuritalo",
+    "url": "https://kulttuuritalo.fi/tapahtumat/",
+    "method": "kulttuuritalo"
+  },
+  {
+    "id": "savoy",
+    "name": "Savoy-teatteri",
+    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
+    "method": "linkedevents",
+    "place_id": "tprek:7258"
+  },
+  {
+    "id": "kuudeslinja",
+    "name": "Kuudes Linja",
+    "url": "https://kuudeslinja.com/",
+    "method": "kuudeslinja"
+  },
+  {
+    "id": "aaniwalli",
+    "name": "Ääniwalli",
+    "url": "https://www.aaniwalli.fi/",
+    "method": "aaniwalli"
+  },
+  {
+    "id": "glivelab",
+    "name": "G Livelab Helsinki",
+    "url": "https://glivelab.fi/",
+    "method": "glivelab"
+  },
+  {
+    "id": "tavastia",
+    "name": "Tavastia",
+    "url": "https://tavastiaklubi.fi/",
+    "method": "tavastia"
+  },
+  {
+    "id": "semifinal",
+    "name": "Semifinal",
+    "url": "https://tavastiaklubi.fi/semifinal",
+    "method": "tavastia"
+  },
+  {
+    "id": "korjaamo",
+    "name": "Korjaamo",
+    "url": "https://korjaamo.fi/tapahtumat/",
+    "method": "korjaamo"
+  },
+  {
+    "id": "lepakkomies",
+    "name": "Lepakkomies",
+    "url": "https://www.lepis.fi/tapahtumat/",
+    "method": "lepis"
+  },
+  {
+    "id": "ontherocks",
+    "name": "On The Rocks",
+    "url": "https://www.rocks.fi/tapahtumat/",
+    "method": "lepis"
+  },
+  {
+    "id": "veikkausarena",
+    "name": "Veikkaus Arena",
+    "url": "https://www.veikkausarena.fi/all-events",
+    "method": "manual",
+    "note": "JS-rendered Live Nation page; needs headless browser (see README)"
+  },
+  {
+    "id": "jaahalli",
+    "name": "Helsingin Jäähalli",
+    "url": "https://helsinginjaahalli.fi/tapahtumat",
+    "method": "jaahalli"
+  },
+  {
+    "id": "barloose",
+    "name": "Bar Loose",
+    "url": "https://barloose.com/live",
+    "method": "barloose"
+  },
+  {
+    "id": "olarinpanimo",
+    "name": "Olarin Panimo Helsinki",
+    "url": "https://olarinpanimo.fi/tapahtumat/",
+    "method": "olarinpanimo"
+  },
+  {
+    "id": "allas",
+    "name": "Allas Live",
+    "url": "https://www.allaslive.fi/en/keikat",
+    "method": "manual",
+    "note": "JS-rendered Live Nation page; needs headless browser (see README)"
+  },
+  {
+    "id": "tiivistamo",
+    "name": "Tiivistämö",
+    "url": "https://tiivistamo.fi/tapahtumat/",
+    "method": "linkedevents",
+    "place_id": "tprek:8099"
+  },
+  {
+    "id": "musiikkitalo",
+    "name": "Musiikkitalo",
+    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
+    "method": "musiikkitalo"
+  },
+  {
+    "id": "vernissa",
+    "name": "Vernissa (Tikkurila)",
+    "url": "https://www.stadissa.fi/paikat/394/kulttuuritehdas-vernissa",
+    "method": "vernissa",
+    "note": "Vernissan oma kalenteri (tapahtumat.vantaa.fi) on rikki; lähteenä Stadissa"
+  }
+]

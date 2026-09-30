@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Keikkalista – Helsingin keikat</title>
+<meta name="description" content="Päivittäin päivittyvä keikkalista: Kulttuuritalo, Savoy, Kuudes Linja, Ääniwalli, G Livelab, Tavastia, Korjaamo, Lepakkomies, On The Rocks, Jäähalli, Bar Loose, Semifinal, Olarin Panimo, Tiivistämö, Musiikkitalo, Vernissa.">
+<style>
+  :root { --bg:#111; --card:#1c1c1c; --fg:#eee; --muted:#999; --accent:#ff5a36; --line:#2c2c2c; }
+  * { box-sizing:border-box; }
+  body { background:var(--bg); color:var(--fg); font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; margin:0; }
+  header { padding:1.2rem 1rem 0.6rem; max-width:900px; margin:0 auto; }
+  h1 { margin:0 0 0.2rem; font-size:1.6rem; }
+  h1 span { color:var(--accent); }
+  #updated { color:var(--muted); font-size:0.85rem; }
+  #controls { display:flex; flex-wrap:wrap; gap:0.5rem; padding:0.8rem 1rem; max-width:900px; margin:0 auto; position:sticky; top:0; background:var(--bg); z-index:10; border-bottom:1px solid var(--line); }
+  #controls input, #controls select { background:var(--card); color:var(--fg); border:1px solid var(--line); border-radius:6px; padding:0.5rem 0.6rem; font-size:0.95rem; }
+  #search { flex:2 1 200px; }
+  #venueFilter { flex:1 1 160px; }
+  #dateFilter { flex:0 1 auto; }
+  main { max-width:900px; margin:0 auto; padding:0 1rem 3rem; }
+  .day { margin-top:1.4rem; }
+  .day > h2 { font-size:1.05rem; text-transform:capitalize; border-bottom:1px solid var(--line); padding-bottom:0.3rem; margin-bottom:0.6rem; }
+  .day > h2 .n { color:var(--muted); font-weight:normal; font-size:0.85rem; }
+  .gig { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:0.6rem 0.8rem; margin-bottom:0.5rem; display:flex; gap:0.6rem; align-items:baseline; }
+  .gig .time { color:var(--accent); font-variant-numeric:tabular-nums; min-width:3.2em; font-weight:600; }
+  .gig .body { flex:1; min-width:0; }
+  .gig .title { font-weight:600; }
+  .gig .title a { color:var(--fg); text-decoration:none; }
+  .gig .title a:hover { text-decoration:underline; }
+  .venue { display:inline-block; font-size:0.75rem; background:#2a2a2a; border:1px solid var(--line); border-radius:20px; padding:0.1rem 0.55rem; margin-top:0.3rem; color:#ccc; }
+  .tickets { font-size:0.85rem; white-space:nowrap; }
+  .tickets a { color:var(--accent); }
+  #count { color:var(--muted); font-size:0.85rem; padding:0.6rem 0; }
+  #venues { color:var(--muted); font-size:0.8rem; margin-top:2rem; border-top:1px solid var(--line); padding-top:1rem; }
+  #venues li { margin-bottom:0.25rem; }
+  #venues a { color:#ccc; }
+  .err { color:#f0a; font-size:0.8rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Keikka<span>lista</span></h1>
+  <div>Helsingin keikat yhdellä sivulla.</div>
+  <div id="updated">Ladataan…</div>
+</header>
+<div id="controls">
+  <input id="search" type="search" placeholder="Hae artistia…" autocomplete="off">
+  <select id="venueFilter"><option value="">Kaikki paikat</option></select>
+  <input id="dateFilter" type="date" title="Näytä tästä päivästä alkaen">
+</div>
+<main>
+  <div id="count"></div>
+  <div id="list"></div>
+  <div id="venues"></div>
+</main>
+<script>
+const WD = ["sunnuntai","maanantai","tiistai","keskiviikko","torstai","perjantai","lauantai"];
+let DATA = null;
+
+function fmtDay(iso) {
+  const [y,m,d] = iso.split("-").map(Number);
+  const dt = new Date(y, m-1, d);
+  return `${WD[dt.getDay()]} ${d}.${m}.${y}`;
+}
+
+function render() {
+  const q = document.getElementById("search").value.toLowerCase().trim();
+  const vf = document.getElementById("venueFilter").value;
+  const df = document.getElementById("dateFilter").value || new Date().toISOString().slice(0,10);
+  const vname = Object.fromEntries(Object.entries(DATA.venues).map(([k,v]) => [k, v.name]));
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  let shown = 0;
+  const byDay = {};
+  for (const e of DATA.events) {
+    if (e.date < df) continue;
+    if (vf && e.venue !== vf) continue;
+    if (q && !(e.title.toLowerCase().includes(q) || (vname[e.venue]||"").toLowerCase().includes(q))) continue;
+    (byDay[e.date] ||= []).push(e);
+    shown++;
+  }
+  document.getElementById("count").textContent = `${shown} keikkaa`;
+  for (const day of Object.keys(byDay).sort()) {
+    const sec = document.createElement("div");
+    sec.className = "day";
+    const evs = byDay[day];
+    sec.innerHTML = `<h2>${fmtDay(day)} <span class="n">${evs.length} kpl</span></h2>`;
+    for (const e of evs) {
+      const div = document.createElement("div");
+      div.className = "gig";
+      const t = e.time ? e.time : "–";
+      const link = e.url ? `<a href="${e.url}" target="_blank" rel="noopener">${escapeHtml(e.title)}</a>` : escapeHtml(e.title);
+      const tick = e.ticket_url && e.ticket_url !== e.url
+        ? ` <span class="tickets"><a href="${e.ticket_url}" target="_blank" rel="noopener">Liput&nbsp;↗</a></span>` : "";
+      div.innerHTML = `<span class="time">${t}</span><span class="body"><span class="title">${link}</span>${tick}<br><span class="venue">${escapeHtml(vname[e.venue]||e.venue)}</span></span>`;
+      sec.appendChild(div);
+    }
+    list.appendChild(sec);
+  }
+  if (!shown) list.innerHTML = "<p>Ei keikkoja tällä haulla.</p>";
+}
+
+function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+
+fetch("events.json").then(r=>r.json()).then(d=>{
+  DATA = d;
+  const upd = new Date(d.updated);
+  document.getElementById("updated").textContent =
+    `Päivitetty ${upd.toLocaleDateString("fi-FI")} klo ${upd.toLocaleTimeString("fi-FI",{hour:"2-digit",minute:"2-digit"})} · ${d.events.length} keikkaa`;
+  const sel = document.getElementById("venueFilter");
+  for (const [id,v] of Object.entries(d.venues).sort((a,b)=>a[1].name.localeCompare(b[1].name,"fi"))) {
+    const o = document.createElement("option");
+    o.value = id; o.textContent = `${v.name} (${v.count})`;
+    sel.appendChild(o);
+  }
+  document.getElementById("dateFilter").value = new Date().toISOString().slice(0,10);
+  const box = document.getElementById("venues");
+  let h = "<h3>Lähteet</h3><ul>";
+  for (const [id,v] of Object.entries(d.venues).sort((a,b)=>a[1].name.localeCompare(b[1].name,"fi"))) {
+    h += `<li><a href="${v.url}" target="_blank" rel="noopener">${escapeHtml(v.name)}</a> — ${v.count} keikkaa` +
+      (v.status !== "ok" ? ` <span class="err">(${escapeHtml(v.status)})</span>` : "") + "</li>";
+  }
+  box.innerHTML = h + "</ul>";
+  for (const el of ["search","venueFilter","dateFilter"]) {
+    document.getElementById(el).addEventListener("input", render);
+  }
+  render();
+}).catch(err=>{
+  document.getElementById("updated").textContent = "Listan lataus epäonnistui: " + err;
+});
+</script>
+</body>
+</html>
