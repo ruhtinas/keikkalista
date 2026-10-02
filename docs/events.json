@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-01T13:45:07+03:00",
+ "updated": "2026-10-02T13:19:59+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 92,
+   "count": 93,
    "status": "ok"
   },
   "savoy": {
    "name": "Savoy-teatteri",
    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
-   "count": 83,
+   "count": 82,
    "status": "ok"
   },
   "kuudeslinja": {
    "name": "Kuudes Linja",
    "url": "https://kuudeslinja.com/",
-   "count": 30,
+   "count": 31,
    "status": "ok"
   },
   "aaniwalli": {
    "name": "Ääniwalli",
    "url": "https://www.aaniwalli.fi/",
-   "count": 31,
+   "count": 32,
    "status": "ok"
   },
   "glivelab": {
@@ -34,19 +34,19 @@
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 82,
+   "count": 83,
    "status": "ok"
   },
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 30,
+   "count": 29,
    "status": "ok"
   },
   "korjaamo": {
    "name": "Korjaamo",
    "url": "https://korjaamo.fi/tapahtumat/",
-   "count": 86,
+   "count": 84,
    "status": "ok"
   },
   "lepakkomies": {
@@ -70,7 +70,7 @@
   "jaahalli": {
    "name": "Helsingin Jäähalli",
    "url": "https://helsinginjaahalli.fi/tapahtumat",
-   "count": 10,
+   "count": 9,
    "status": "ok"
   },
   "barloose": {
@@ -82,7 +82,7 @@
   "olarinpanimo": {
    "name": "Olarin Panimo Helsinki",
    "url": "https://olarinpanimo.fi/tapahtumat/",
-   "count": 16,
+   "count": 17,
    "status": "ok"
   },
   "allas": {
@@ -100,7 +100,7 @@
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 87,
+   "count": 97,
    "status": "ok"
   },
   "vernissa": {
@@ -111,70 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "savoy",
-   "title": "Becca Stevens (USA) & UMO Helsinki Jazz Orchestra",
-   "date": "2026-10-01",
-   "time": "16:00",
-   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/14959DEFFDF608A84AEE0A7FE2A60F58/Becca_Stevens_USA_UMO_Helsinki_Jazz_Orchestra",
-   "ticket_url": null
-  },
-  {
-   "venue": "lepakkomies",
-   "title": "Club Bête Noire: Automelodi + Waldemar Blom",
-   "date": "2026-10-01",
-   "time": "20:00",
-   "url": "https://www.lepis.fi/tapahtumat/club-bete-noire-automelodi-waldemar-blom/",
-   "ticket_url": null
-  },
-  {
-   "venue": "ontherocks",
-   "title": "Future Palace (GER), As Everything Unfolds (ENG), LUNA KILLS",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "url": "https://www.rocks.fi/tapahtumat/future-palace-ger-as-everything-unfolds-eng-luna-kills/",
-   "ticket_url": "https://www.tiketti.fi/future-palace-ger-deep-blue-tour-2026-on-the-rocks-helsinki-lippuja/113992"
-  },
-  {
-   "venue": "olarinpanimo",
-   "title": "Improklubi RAATIHUONEILMIÖ 1.10. LOKAKUU",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "url": "https://olarinpanimo.fi/tapahtuma/improklubi-raatihuoneilmio-3-9-syyskuu/",
-   "ticket_url": null
-  },
-  {
-   "venue": "barloose",
-   "title": "Let It All Burn, FIXME",
-   "date": "2026-10-01",
-   "time": "19:30",
-   "url": "https://barloose.com/live/let-it-all-burn-fixme/",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "Sir Elwood Duo",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "url": "https://korjaamo.fi/event/sir-elwood-duo-2/",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "Suomifornia Film Festival 2026",
-   "date": "2026-10-01",
-   "time": "14:00",
-   "url": "https://korjaamo.fi/event/suomifornia-film-festival-2026/",
-   "ticket_url": null
-  },
-  {
-   "venue": "semifinal",
-   "title": "Tatskatytöt - What The Q*iz",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "url": "https://tavastiaklubi.fi/events/2026-10-01/tatskatytot-what-the-qiz/121141/",
-   "ticket_url": null
-  },
   {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: NICOLE + BISA",
@@ -203,7 +139,7 @@
    "venue": "semifinal",
    "title": "Armi Harmio (Levyjulkkarit), Keidas",
    "date": "2026-10-02",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-02/armi-harmio-levyjulkkarit-keidas/120134/",
    "ticket_url": null
   },
@@ -277,14 +213,6 @@
    "date": "2026-10-02",
    "time": "23:30",
    "url": "https://barloose.com/live/neon-nights-w-dj-anaheim-2/",
-   "ticket_url": null
-  },
-  {
-   "venue": "jaahalli",
-   "title": "Nylon Beat",
-   "date": "2026-10-02",
-   "time": null,
-   "url": "https://helsinginjaahalli.fi/events/nylon-beat-2",
    "ticket_url": null
   },
   {
@@ -531,7 +459,7 @@
    "venue": "semifinal",
    "title": "Kuudesta Kymmeneen",
    "date": "2026-10-06",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-06/kuudesta-kymmeneen/120766/",
    "ticket_url": null
   },
@@ -587,7 +515,7 @@
    "venue": "semifinal",
    "title": "Joka v*tun keskiviikko: Roosa Maskonen",
    "date": "2026-10-07",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-07/joka-vtun-keskiviikko-roosa-maskonen/120341/",
    "ticket_url": null
   },
@@ -723,7 +651,7 @@
    "venue": "semifinal",
    "title": "Club Eternal Flame",
    "date": "2026-10-09",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-09/club-eternal-flame/119864/",
    "ticket_url": null
   },
@@ -920,14 +848,6 @@
    "ticket_url": null
   },
   {
-   "venue": "musiikkitalo",
-   "title": "Johanna Lehtinen-Schnabel: Kielitietoiset kuorot ylialaisuuden rakentajina",
-   "date": "2026-10-10",
-   "time": "12:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/johanna-lehtinen-schnabel-kielitietoiset-kuorot-ylialaisuuden-rakentajina-10-10-2026",
-   "ticket_url": null
-  },
-  {
    "venue": "kulttuuritalo",
    "title": "KULT: The Sideshows + Lovers Left Alive",
    "date": "2026-10-10",
@@ -941,6 +861,14 @@
    "date": "2026-10-10",
    "time": "20:30",
    "url": "https://korjaamo.fi/event/kalevauva-10-v-2/",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "Kielitietoiset kuorot ylialaisuuden rakentajina",
+   "date": "2026-10-10",
+   "time": "12:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/kielitietoiset-kuorot-ylialaisuuden-rakentajina-10-10-2026",
    "ticket_url": null
   },
   {
@@ -1195,7 +1123,7 @@
    "venue": "semifinal",
    "title": "Joka v*tun keskiviikko: Yllätysesiintyjä",
    "date": "2026-10-14",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-14/joka-vtun-keskiviikko-yllatysesiintyja/120569/",
    "ticket_url": null
   },
@@ -1307,8 +1235,16 @@
    "venue": "semifinal",
    "title": "Mount Palatine, Swarm, Zombie Eater",
    "date": "2026-10-15",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-15/mount-palatine-swarm-zombie-eater/120200/",
+   "ticket_url": null
+  },
+  {
+   "venue": "barloose",
+   "title": "Nick Cavea suomeksi @ Iggy’s",
+   "date": "2026-10-15",
+   "time": "18:00",
+   "url": "https://barloose.com/live/nick-cavea-suomeksi-iggys/",
    "ticket_url": null
   },
   {
@@ -1475,7 +1411,7 @@
    "venue": "semifinal",
    "title": "Haavat",
    "date": "2026-10-17",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-17/haavat/120060/",
    "ticket_url": null
   },
@@ -1616,6 +1552,14 @@
    "ticket_url": null
   },
   {
+   "venue": "musiikkitalo",
+   "title": "Sirkka-Liisa Kaakinen-Pilchin viululuokan konsertti",
+   "date": "2026-10-19",
+   "time": "18:30",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/sirkka-liisa-kaakinen-pilchin-viululuokan-konsertti-19-10-2026-2",
+   "ticket_url": null
+  },
+  {
    "venue": "kulttuuritalo",
    "title": "Dylan Moran: LOOKING FOR TROUBLE",
    "date": "2026-10-20",
@@ -1624,10 +1568,18 @@
    "ticket_url": null
   },
   {
+   "venue": "lepakkomies",
+   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
+   "date": "2026-10-20",
+   "time": "18:00",
+   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode-2/",
+   "ticket_url": null
+  },
+  {
    "venue": "semifinal",
    "title": "JAMMA JAMMA JAMIT",
    "date": "2026-10-20",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-20/jamma-jamma-jamit/119578/",
    "ticket_url": null
   },
@@ -1646,6 +1598,14 @@
    "time": "20:00",
    "url": "https://korjaamo.fi/event/dizzee-rascal-uk/",
    "ticket_url": null
+  },
+  {
+   "venue": "ontherocks",
+   "title": "Warner E. Hodges International All Stars feat. Stacie Collins",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "url": "https://www.rocks.fi/tapahtumat/warner-e-hodges-international-all-stars-feat-stacie-collins/",
+   "ticket_url": "https://www.tiketti.fi/tapahtuma/120264"
   },
   {
    "venue": "kuudeslinja",
@@ -1683,7 +1643,7 @@
    "venue": "semifinal",
    "title": "Joka v*tun keskiviikko: André Wickström",
    "date": "2026-10-21",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-21/joka-vtun-keskiviikko-andre-wickstrom/120570/",
    "ticket_url": null
   },
@@ -1747,7 +1707,7 @@
    "venue": "semifinal",
    "title": "AINOA, PIMEE",
    "date": "2026-10-23",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-23/ainoa-pimee/120292/",
    "ticket_url": null
   },
@@ -1864,6 +1824,14 @@
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/16032/22866/"
   },
   {
+   "venue": "olarinpanimo",
+   "title": "Sukupolvien taistelu – stand up ilta 23.10.",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/sukupolvien-taistelu-stand-up-ilta-23-10/",
+   "ticket_url": null
+  },
+  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: PEDRO (LEVYJULKKARIT) + VICTOR NORDIS",
    "date": "2026-10-24",
@@ -1875,7 +1843,7 @@
    "venue": "semifinal",
    "title": "ARTKILLS, Melankolia, Lust For Lily",
    "date": "2026-10-24",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-24/artkills-melankolia-lust-for-lily/120720/",
    "ticket_url": null
   },
@@ -1926,6 +1894,14 @@
    "time": "18:00",
    "url": "https://korjaamo.fi/event/paivakirjaklubi-43/",
    "ticket_url": null
+  },
+  {
+   "venue": "aaniwalli",
+   "title": "REGGAE UNITED (2 YEAR ANNIVERSARY JAM)",
+   "date": "2026-10-24",
+   "time": null,
+   "url": "https://www.aaniwalli.fi/events/2026-10-24-reggae_united_2_year_anniversary_jam",
+   "ticket_url": "https://www.eventu.al/en/event/10726/finland/helsinki/reggae-united-2-year-anniversary-jam"
   },
   {
    "venue": "korjaamo",
@@ -1984,6 +1960,22 @@
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15656/21674/"
   },
   {
+   "venue": "musiikkitalo",
+   "title": "Huilistit lavalla!",
+   "date": "2026-10-26",
+   "time": "19:30",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/huilistit-lavalla-26-10-2026-2",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "Kitaraluokan konsertti",
+   "date": "2026-10-26",
+   "time": "16:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/kitaraluokan-konsertti-26-10-2026-2",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "UMO Helsinki Ensemble – Jimmy Giuffre 3 – Lounaskonsertti",
    "date": "2026-10-26",
@@ -2024,6 +2016,14 @@
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15775/22165/"
   },
   {
+   "venue": "musiikkitalo",
+   "title": "Erkki Lahesmaan selloluokan konsertti",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/erkki-lahesmaan-selloluokan-konsertti-28-10-2026-2",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Gloryhammer - 5th Album Release Tour 2026",
    "date": "2026-10-28",
@@ -2051,7 +2051,7 @@
    "venue": "semifinal",
    "title": "Joka v*tun keskiviikko: Matti Paalanen",
    "date": "2026-10-28",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-28/joka-vtun-keskiviikko-matti-paalanen/120571/",
    "ticket_url": null
   },
@@ -2062,6 +2062,14 @@
    "time": "19:00",
    "url": "https://www.tiketti.fi/ottelia-kuriton-levyjulkkarit-kuudes-linja-helsinki-lippuja/120743",
    "ticket_url": "https://www.tiketti.fi/ottelia-kuriton-levyjulkkarit-kuudes-linja-helsinki-lippuja/120743"
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "SibAbonesin syyskonsertti",
+   "date": "2026-10-28",
+   "time": "16:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/sibabonesin-syyskonsertti-28-10-2026-2",
+   "ticket_url": null
   },
   {
    "venue": "musiikkitalo",
@@ -2157,6 +2165,14 @@
    "date": "2026-10-29",
    "time": "19:00",
    "url": "https://korjaamo.fi/event/songhoy-blues-ml/",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "Urkumatinea",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/urkumatinea-29-10-2026-2",
    "ticket_url": null
   },
   {
@@ -2275,7 +2291,7 @@
    "venue": "semifinal",
    "title": "YOUNGHEARTED",
    "date": "2026-10-30",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-30/younghearted/120921/",
    "ticket_url": null
   },
@@ -2363,8 +2379,16 @@
    "venue": "semifinal",
    "title": "YOUNGHEARTED",
    "date": "2026-10-31",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-10-31/younghearted/120923/",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "defunensemblen Halloween II",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/defunensemblen-halloween-ii-31-10-2026-2",
    "ticket_url": null
   },
   {
@@ -2523,7 +2547,7 @@
    "venue": "semifinal",
    "title": "Club Eternal Flame",
    "date": "2026-11-06",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-11-06/club-eternal-flame/119866/",
    "ticket_url": null
   },
@@ -2595,7 +2619,7 @@
    "venue": "semifinal",
    "title": "Alwari Tuohitorvi Revisited",
    "date": "2026-11-07",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-11-07/alwari-tuohitorvi-revisited/120066/",
    "ticket_url": null
   },
@@ -2723,7 +2747,7 @@
    "venue": "semifinal",
    "title": "Kuudesta Kymmeneen",
    "date": "2026-11-10",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-11-10/kuudesta-kymmeneen/120769/",
    "ticket_url": null
   },
@@ -3267,8 +3291,16 @@
    "venue": "semifinal",
    "title": "Miika Leivo & Band, Honey Crisp",
    "date": "2026-11-19",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-11-19/miika-leivo-band-honey-crisp/120354/",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "Ur­ku­ma­ti­nea",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/urkumatinea-19-11-2026-2",
    "ticket_url": null
   },
   {
@@ -3368,11 +3400,27 @@
    "ticket_url": null
   },
   {
+   "venue": "kuudeslinja",
+   "title": "KINGFISH 10 V",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://www.tiketti.fi/kingfish-10v-kuudes-linja-helsinki-lippuja/121340",
+   "ticket_url": "https://www.tiketti.fi/kingfish-10v-kuudes-linja-helsinki-lippuja/121340"
+  },
+  {
    "venue": "kulttuuritalo",
    "title": "KULT: Wasted 30 V., Abduktio + Manifesto Jukebox",
    "date": "2026-11-21",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/kult-wasted",
+   "ticket_url": null
+  },
+  {
+   "venue": "olarinpanimo",
+   "title": "OKSENNUS, CLACTONIAN, LOPUTON SUO & LÄHDÖN AIKA / OLARIN PANIMO 21.11 HKI",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/oksennus-clactonian-loputon-suo-lahdon-aika-olarin-panimo-21-11-hki/",
    "ticket_url": null
   },
   {
@@ -3608,6 +3656,14 @@
    "ticket_url": null
   },
   {
+   "venue": "musiikkitalo",
+   "title": "Ur­ku­ma­ti­nea",
+   "date": "2026-11-26",
+   "time": "18:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/urkumatinea-26-11-2026-2",
+   "ticket_url": null
+  },
+  {
    "venue": "kuudeslinja",
    "title": "ALKULLAN KONSERTTI: DIE OBERHERREN (SE) + DHARMA GUNS + ROB COFFINSHAKER (SE)",
    "date": "2026-11-27",
@@ -3763,7 +3819,7 @@
    "venue": "semifinal",
    "title": "Kuudesta Kymmeneen",
    "date": "2026-12-01",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-01/kuudesta-kymmeneen/120770/",
    "ticket_url": null
   },
@@ -3793,7 +3849,7 @@
   },
   {
    "venue": "savoy",
-   "title": "Anssi Kela - Nummela 25-vuotisjuhlakiertue",
+   "title": "Anssi Kela - Nummela 25-vuotisjuhlakiertue – Loppuunmyyty! / Sold out!",
    "date": "2026-12-02",
    "time": "17:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/97EA348FBE4652EEA2E87648E8957E89/Anssi_Kela_-_Nummela_25-vuotisjuhlakiertue",
@@ -3827,7 +3883,7 @@
    "venue": "semifinal",
    "title": "Club Eternal Flame",
    "date": "2026-12-03",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-03/club-eternal-flame/119867/",
    "ticket_url": null
   },
@@ -4064,6 +4120,14 @@
    "ticket_url": null
   },
   {
+   "venue": "musiikkitalo",
+   "title": "Ur­ku­ma­ti­nea",
+   "date": "2026-12-10",
+   "time": "18:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/urkumatinea-10-12-2026-2",
+   "ticket_url": null
+  },
+  {
    "venue": "kulttuuritalo",
    "title": "Black Devils – 30th Anniversary Show",
    "date": "2026-12-11",
@@ -4245,6 +4309,14 @@
    "date": "2026-12-15",
    "time": "17:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/F3ED12715AEA1FDEF937A9928F6B423B/Club_For_Five_Jouluna_2026",
+   "ticket_url": null
+  },
+  {
+   "venue": "kulttuuritalo",
+   "title": "Sibelius-lukion JouluShow",
+   "date": "2026-12-15",
+   "time": null,
+   "url": "https://kulttuuritalo.fi/tapahtuma/sibelius-lukion-joulushow-3",
    "ticket_url": null
   },
   {
@@ -4555,7 +4627,7 @@
    "venue": "semifinal",
    "title": "Einvigi, The Mist from the Mountains, Venunum Dei",
    "date": "2027-01-08",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-01-08/einvigi-the-mist-from-the-mountains-venunum-dei/120784/",
    "ticket_url": null
   },
@@ -4976,6 +5048,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "Sunnan (SWE)",
+   "date": "2027-03-03",
+   "time": "21:30",
+   "url": "https://tavastiaklubi.fi/events/2027-03-03/sunnan-swe/121312/",
+   "ticket_url": null
+  },
+  {
    "venue": "tiivistamo",
    "title": "Dead Poet Society (USA) + Support (K18)",
    "date": "2027-03-05",
@@ -5187,7 +5267,7 @@
    "venue": "semifinal",
    "title": "Tramhaus (NL)",
    "date": "2027-04-20",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-04-20/tramhaus-nl/119101/",
    "ticket_url": null
   },
