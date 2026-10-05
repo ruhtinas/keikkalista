@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T13:26:00+03:00",
+ "updated": "2026-10-05T14:12:39+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
@@ -22,7 +22,7 @@
   "aaniwalli": {
    "name": "Ääniwalli",
    "url": "https://www.aaniwalli.fi/",
-   "count": 32,
+   "count": 29,
    "status": "ok"
   },
   "glivelab": {
@@ -34,7 +34,7 @@
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 81,
+   "count": 80,
    "status": "ok"
   },
   "semifinal": {
@@ -46,7 +46,7 @@
   "korjaamo": {
    "name": "Korjaamo",
    "url": "https://korjaamo.fi/tapahtumat/",
-   "count": 80,
+   "count": 82,
    "status": "ok"
   },
   "lepakkomies": {
@@ -70,7 +70,7 @@
   "jaahalli": {
    "name": "Helsingin Jäähalli",
    "url": "https://helsinginjaahalli.fi/tapahtumat",
-   "count": 7,
+   "count": 8,
    "status": "ok"
   },
   "barloose": {
@@ -82,7 +82,7 @@
   "olarinpanimo": {
    "name": "Olarin Panimo Helsinki",
    "url": "https://olarinpanimo.fi/tapahtumat/",
-   "count": 15,
+   "count": 18,
    "status": "ok"
   },
   "allas": {
@@ -100,7 +100,7 @@
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 96,
+   "count": 97,
    "status": "ok"
   },
   "vernissa": {
@@ -111,38 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "aaniwalli",
-   "title": "Club Zero Vol.14",
-   "date": "2026-10-03",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2026-10-03-club_zero_vol14",
-   "ticket_url": "https://www.eventu.al/en/event/10618/finland/helsinki/club-zero-vol14"
-  },
-  {
-   "venue": "kulttuuritalo",
-   "title": "KULT: FCF Wrestling: Northern Queens – Showpainia!",
-   "date": "2026-10-03",
-   "time": null,
-   "url": "https://kulttuuritalo.fi/tapahtuma/fcf-wrestling-northern-queens-showpainia",
-   "ticket_url": null
-  },
-  {
-   "venue": "aaniwalli",
-   "title": "Sonic Rites Presents: Agrimonia (SE) , Kürøishi, Vivisektio",
-   "date": "2026-10-03",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2026-10-03-sonic_rites_presents_agrimonia_se_krishi_vivisektio",
-   "ticket_url": "https://www.tiketti.fi/agrimonia-swe-kuroishi-vivisektio-aaniwalli-helsinki-lippuja/120613"
-  },
-  {
-   "venue": "tiivistamo",
-   "title": "Salsa con Sabor (S)",
-   "date": "2026-10-04",
-   "time": "14:00",
-   "url": "https://www.salsaborealis.fi/",
-   "ticket_url": null
-  },
   {
    "venue": "kuudeslinja",
    "title": "LOPPUUNMYYTY: THE MOUNTAIN GOATS (US) + CRAIG FINN (US)",
@@ -280,14 +248,6 @@
    "ticket_url": null
   },
   {
-   "venue": "aaniwalli",
-   "title": "[PERUTTU] Girl Group (UK)",
-   "date": "2026-10-07",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2026-10-07-girl_group_uk",
-   "ticket_url": "https://www.tiketti.fi/girl-group-uk-aaniwalli-helsinki-lippuja/118968"
-  },
-  {
    "venue": "tavastia",
    "title": "Brother Firetribe",
    "date": "2026-10-08",
@@ -389,6 +349,14 @@
    "date": "2026-10-09",
    "time": "23:30",
    "url": "https://barloose.com/live/disco-de-la-muerte/",
+   "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "GEMZ – THE ULTIMATE POP PARTY",
+   "date": "2026-10-09",
+   "time": "23:45",
+   "url": "https://kuudeslinja.com/",
    "ticket_url": null
   },
   {
@@ -681,7 +649,7 @@
   },
   {
    "venue": "aaniwalli",
-   "title": "Test Pressing # 61: Speedy J – HYBRID DJ/LIVE (NL) , Om Unit (UK)",
+   "title": "Test Pressing # 61: Speedy J (NL) , Om Unit (UK)",
    "date": "2026-10-10",
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-09-15-test_pressing__61_speedy_j__hybrid_djlive_nl_om_unit_uk",
@@ -828,7 +796,7 @@
    "title": "Siban kahvikonsertit Musiikkitalossa: Sibelius-Akatemian alttoviuluopiskelijat",
    "date": "2026-10-13",
    "time": "14:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/siban-kahvikonsertit-musiikkitalossa-sibelius-akatemian-alttoviuluopiskelijat-13-10-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/siban-kahvikonsertit-musiikkitalossa-sibelius-akatemian-alttoviuluopiskelijat-13-10-2026",
    "ticket_url": null
   },
   {
@@ -838,6 +806,14 @@
    "time": "14:00",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqkug66gq",
    "ticket_url": null
+  },
+  {
+   "venue": "jaahalli",
+   "title": "HIFK - TPS Klo 18:30",
+   "date": "2026-10-14",
+   "time": "18:30",
+   "url": "https://helsinginjaahalli.fi/events/hifk-tps-19-12-klo-1830",
+   "ticket_url": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/437099953"
   },
   {
    "venue": "musiikkitalo",
@@ -1008,6 +984,14 @@
    "ticket_url": null
   },
   {
+   "venue": "olarinpanimo",
+   "title": "Valma – Paha Mieli albumin levyjulkkarit",
+   "date": "2026-10-15",
+   "time": "20:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/valma-paha-mieli-albumin-levyjulkkarit/",
+   "ticket_url": null
+  },
+  {
    "venue": "lepakkomies",
    "title": "Violent Kites – Levyjulkkarit + PIMEE + Spectacle",
    "date": "2026-10-15",
@@ -1040,6 +1024,14 @@
    "ticket_url": "https://www.tiketti.fi/pihalla-levyjulkkarit-kuudes-linja-helsinki-lippuja/119859"
   },
   {
+   "venue": "olarinpanimo",
+   "title": "AkDK, Culture Trap & Pet Sweat",
+   "date": "2026-10-16",
+   "time": "18:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/akdk-culture-trap-pet-sweat/",
+   "ticket_url": null
+  },
+  {
    "venue": "barloose",
    "title": "Delfoi Road: Body Resonance -levynjulkkaribileet (yläkerta)",
    "date": "2026-10-16",
@@ -1054,14 +1046,6 @@
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-10-16-fury_cara_elizabeth_de_johannes_schuster_de_mika_heggemann_de",
    "ticket_url": "https://www.tiketti.fi/fury-cara-elizabeth-johannes-schuster-mika-heggemann-lippuja/119761"
-  },
-  {
-   "venue": "kuudeslinja",
-   "title": "GEMZ – THE ULTIMATE POP PARTY",
-   "date": "2026-10-16",
-   "time": "23:45",
-   "url": "https://kuudeslinja.com/",
-   "ticket_url": null
   },
   {
    "venue": "barloose",
@@ -1728,14 +1712,6 @@
    "ticket_url": "https://www.facebook.com/events/1894493998499681/"
   },
   {
-   "venue": "korjaamo",
-   "title": "Päiväkirjaklubi",
-   "date": "2026-10-24",
-   "time": "18:00",
-   "url": "https://korjaamo.fi/event/paivakirjaklubi-43/",
-   "ticket_url": null
-  },
-  {
    "venue": "aaniwalli",
    "title": "REGGAE UNITED (2 YEAR ANNIVERSARY JAM)",
    "date": "2026-10-24",
@@ -1749,6 +1725,14 @@
    "date": "2026-10-24",
    "time": "23:15",
    "url": "https://korjaamo.fi/event/rekami-levyjulkkarit/",
+   "ticket_url": null
+  },
+  {
+   "venue": "korjaamo",
+   "title": "SOLD OUT: Päiväkirjaklubi",
+   "date": "2026-10-24",
+   "time": "18:00",
+   "url": "https://korjaamo.fi/event/paivakirjaklubi-43/",
    "ticket_url": null
   },
   {
@@ -2245,6 +2229,14 @@
    "date": "2026-10-31",
    "time": "19:00",
    "url": "https://tavastiaklubi.fi/events/2026-10-31/younghearted/120923/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tiivistamo",
+   "title": "Salsa con Sabor (S)",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "url": "https://www.salsaborealis.fi/",
    "ticket_url": null
   },
   {
@@ -2821,14 +2813,6 @@
    "date": "2026-11-13",
    "time": "20:00",
    "url": "https://tavastiaklubi.fi/events/2026-11-13/costi-uuer/120053/",
-   "ticket_url": null
-  },
-  {
-   "venue": "tavastia",
-   "title": "ETTA",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "url": "https://tavastiaklubi.fi/events/2026-11-13/etta/118252/",
    "ticket_url": null
   },
   {
@@ -3776,6 +3760,14 @@
    "ticket_url": null
   },
   {
+   "venue": "korjaamo",
+   "title": "Diogi: Tyttökulta-levyjulkkarit (S/K18)",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "url": "https://korjaamo.fi/event/diogi-tyttokulta-levyjulkkarit-s-k18/",
+   "ticket_url": null
+  },
+  {
    "venue": "olarinpanimo",
    "title": "Improklubi RAATIHUONEILMIÖ 3.12. JOULUKUU",
    "date": "2026-12-03",
@@ -4352,6 +4344,14 @@
    "ticket_url": null
   },
   {
+   "venue": "olarinpanimo",
+   "title": "Turbojugend Pohjois-Haaga 10-vuotta",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/turbojugend-pohjois-haaga-10-vuotta/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Von Hertzen Brothers - Rarities 25th Anniversary Tour",
    "date": "2026-12-18",
@@ -4478,6 +4478,14 @@
    "time": "20:00",
    "url": "https://tavastiaklubi.fi/events/2026-12-31/erika-vikman/120581/",
    "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "HeBo | Uudenvuoden juhlakonsertti",
+   "date": "2026-12-31",
+   "time": "19:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hebo-uudenvuoden-juhlakonsertti-31-12-2026",
+   "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/16128/23523/"
   },
   {
    "venue": "tavastia",
@@ -4904,20 +4912,20 @@
    "ticket_url": null
   },
   {
-   "venue": "aaniwalli",
-   "title": "WHITECHAPEL (US) - Burn Forever Tour & Supports: Sylosis, 200 Stab Wounds, Tribal Gaze",
-   "date": "2027-02-27",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2027-02-27-whitechapel_us__burn_forever_tour__supports_sylosis_200_stab_wounds_tribal_gaze",
-   "ticket_url": "https://www.tiketti.fi/tapahtuma/116414"
-  },
-  {
    "venue": "kulttuuritalo",
    "title": "Whitechapel – Burn Forever Tour",
    "date": "2027-02-27",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/whitechapel-burn-forever-tour",
    "ticket_url": null
+  },
+  {
+   "venue": "aaniwalli",
+   "title": "[SIIRTYY KULTTUURITALOLLE] WHITECHAPEL (US) - Burn Forever Tour & Supports: Sylosis, 200 Stab Wounds, Tribal Gaze",
+   "date": "2027-02-27",
+   "time": null,
+   "url": "https://www.aaniwalli.fi/events/2027-02-27-whitechapel_us__burn_forever_tour__supports_sylosis_200_stab_wounds_tribal_gaze",
+   "ticket_url": "https://www.tiketti.fi/tapahtuma/116414"
   },
   {
    "venue": "kulttuuritalo",
@@ -4941,6 +4949,14 @@
    "date": "2027-03-02",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/morgan-jay-la-dolce-vita-tour",
+   "ticket_url": null
+  },
+  {
+   "venue": "korjaamo",
+   "title": "Pussy Riot: Riot Days, New Age Doom",
+   "date": "2027-03-03",
+   "time": "19:00",
+   "url": "https://korjaamo.fi/event/pussy-riot-riot-days-new-age-doom/",
    "ticket_url": null
   },
   {
@@ -5177,6 +5193,14 @@
   },
   {
    "venue": "kulttuuritalo",
+   "title": "Timo Kotipelto ja Jarkko Ahola – Voices Unleashed",
+   "date": "2027-04-21",
+   "time": null,
+   "url": "https://kulttuuritalo.fi/tapahtuma/timo-kotipelto-ja-jarkko-ahola-voices-unleashed",
+   "ticket_url": null
+  },
+  {
+   "venue": "kulttuuritalo",
    "title": "DragonForce",
    "date": "2027-04-23",
    "time": null,
@@ -5284,7 +5308,7 @@
    "title": "REAPER FEST 2027",
    "date": "2027-09-17",
    "time": "20:00",
-   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119662/",
+   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119664/",
    "ticket_url": null
   },
   {
