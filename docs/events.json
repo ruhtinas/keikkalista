@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-05T14:12:39+03:00",
+ "updated": "2026-10-06T14:02:23+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 92,
+   "count": 93,
    "status": "ok"
   },
   "savoy": {
    "name": "Savoy-teatteri",
    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
-   "count": 79,
+   "count": 80,
    "status": "ok"
   },
   "kuudeslinja": {
@@ -22,7 +22,7 @@
   "aaniwalli": {
    "name": "Ääniwalli",
    "url": "https://www.aaniwalli.fi/",
-   "count": 29,
+   "count": 28,
    "status": "ok"
   },
   "glivelab": {
@@ -46,7 +46,7 @@
   "korjaamo": {
    "name": "Korjaamo",
    "url": "https://korjaamo.fi/tapahtumat/",
-   "count": 82,
+   "count": 81,
    "status": "ok"
   },
   "lepakkomies": {
@@ -94,13 +94,13 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 26,
+   "count": 27,
    "status": "ok"
   },
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 97,
+   "count": 98,
    "status": "ok"
   },
   "vernissa": {
@@ -111,22 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "kuudeslinja",
-   "title": "LOPPUUNMYYTY: THE MOUNTAIN GOATS (US) + CRAIG FINN (US)",
-   "date": "2026-10-05",
-   "time": "20:45",
-   "url": "https://www.tiketti.fi/the-mountain-goats-us-kuudes-linja-helsinki-lippuja/112886",
-   "ticket_url": "https://www.tiketti.fi/the-mountain-goats-us-kuudes-linja-helsinki-lippuja/112886"
-  },
-  {
-   "venue": "aaniwalli",
-   "title": "We Jazz presents: WOLF EYES (US) , Lichen Gumbo",
-   "date": "2026-10-05",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2026-10-05-we_jazz_presents_wolf_eyes_us",
-   "ticket_url": "https://www.tiketti.fi/tapahtuma/118571"
-  },
   {
    "venue": "lepakkomies",
    "title": "333kollektiivi: HÄÄT(Ö)",
@@ -195,7 +179,7 @@
    "venue": "kuudeslinja",
    "title": "IDÄN IHMEET: YLÖSNOUSEMUS – 20-VUOTISJUHLAKIERTUE",
    "date": "2026-10-07",
-   "time": "19:00",
+   "time": "20:00",
    "url": "https://www.tiketti.fi/idan-ihmeet-kuudes-linja-helsinki-lippuja/117826",
    "ticket_url": "https://www.tiketti.fi/idan-ihmeet-kuudes-linja-helsinki-lippuja/117826"
   },
@@ -275,7 +259,7 @@
    "venue": "kuudeslinja",
    "title": "KRALLICE (US) + SAINT SEER",
    "date": "2026-10-08",
-   "time": "19:00",
+   "time": "20:30",
    "url": "https://www.tiketti.fi/krallice-usa-kuudes-linja-helsinki-lippuja/118502",
    "ticket_url": "https://www.tiketti.fi/krallice-usa-kuudes-linja-helsinki-lippuja/118502"
   },
@@ -323,7 +307,7 @@
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: SHERE KHAN + FALLING PYRAMIDS + LILITH & THE WILD FLOWERS",
    "date": "2026-10-09",
-   "time": "19:00",
+   "time": "21:30",
    "url": "https://www.tiketti.fi/shere-khan-falling-pyramids-lilith-the-wild-flowers-kuudes-lippuja/120583",
    "ticket_url": "https://www.tiketti.fi/shere-khan-falling-pyramids-lilith-the-wild-flowers-kuudes-lippuja/120583"
   },
@@ -491,7 +475,7 @@
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: BOB MALMSTRÖM + JÄSTINFEKTION + FYRK",
    "date": "2026-10-10",
-   "time": "19:00",
+   "time": "21:30",
    "url": "https://www.tiketti.fi/bob-malmstrom-jastinfektion-fyrk-kuudes-linja-helsinki-lippuja/119845",
    "ticket_url": "https://www.tiketti.fi/bob-malmstrom-jastinfektion-fyrk-kuudes-linja-helsinki-lippuja/119845"
   },
@@ -573,6 +557,14 @@
    "date": "2026-10-10",
    "time": "20:00",
    "url": "https://www.lepis.fi/tapahtumat/kiss-disease-pink-chameleons-drug-dog/",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "Kuorokavalkadi 2026",
+   "date": "2026-10-10",
+   "time": "11:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/kuorokavalkadi-2026-10-10-2026",
    "ticket_url": null
   },
   {
@@ -1017,6 +1009,14 @@
   },
   {
    "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: DEMONIC DEATH JUDGE – SEAWEED 10 YEAR ANNIVERSARY + SUNNIVA + ELEKTRUS EREKTUS",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "url": "https://www.tiketti.fi/demonic-death-judge-sunniva-elektrus-erektus-kuudes-linja-lippuja/121367",
+   "ticket_url": "https://www.tiketti.fi/demonic-death-judge-sunniva-elektrus-erektus-kuudes-linja-lippuja/121367"
+  },
+  {
+   "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: PIHALLA (LEVYJULKKARIT) + KAIO",
    "date": "2026-10-16",
    "time": "19:00",
@@ -1171,7 +1171,7 @@
    "venue": "semifinal",
    "title": "Haavat",
    "date": "2026-10-17",
-   "time": "19:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2026-10-17/haavat/120060/",
    "ticket_url": null
   },
@@ -1432,6 +1432,14 @@
    "ticket_url": null
   },
   {
+   "venue": "lepakkomies",
+   "title": "Leevi Priha & Dimjami + Neiti",
+   "date": "2026-10-21",
+   "time": "20:00",
+   "url": "https://www.lepis.fi/tapahtumat/leevi-priha-dimjami-neiti/",
+   "ticket_url": null
+  },
+  {
    "venue": "ontherocks",
    "title": "Scarlet (SWE)",
    "date": "2026-10-21",
@@ -1520,6 +1528,14 @@
    "ticket_url": "https://www.tiketti.fi/nightcall-a-kavinsky-tribute-kuudes-linja-helsinki-lippuja/120582"
   },
   {
+   "venue": "ontherocks",
+   "title": "Club Anvil – October Edition",
+   "date": "2026-10-23",
+   "time": "23:00",
+   "url": "https://www.rocks.fi/tapahtumat/club-anvil-october-edition/",
+   "ticket_url": null
+  },
+  {
    "venue": "korjaamo",
    "title": "Eidetic Dreams (levyjulkkarit), Eetu Riikonen",
    "date": "2026-10-23",
@@ -1585,7 +1601,7 @@
   },
   {
    "venue": "aaniwalli",
-   "title": "MODUL: YANAMASTE (GE) , CONNTEX (DE) , ALLFIVE",
+   "title": "MODUL: YANAMASTE (GE) , CONNTEX (DE) , ALLFIVE, BASSOUS: ELVIRA, JAYDN",
    "date": "2026-10-23",
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-10-23-modul_yanamaste_ge_conntex_de_allfive",
@@ -1664,14 +1680,6 @@
    "ticket_url": null
   },
   {
-   "venue": "ontherocks",
-   "title": "For My Pain…, Scars of Solitude",
-   "date": "2026-10-24",
-   "time": "20:00",
-   "url": "https://www.rocks.fi/tapahtumat/for-my-pain-scars-of-solitude/",
-   "ticket_url": "https://www.tiketti.fi/tapahtuma/119846"
-  },
-  {
    "venue": "korjaamo",
    "title": "Hiljaiset Levyt 40 vuotta -juhlakeikka: Hiljaiset All Stars, Dave Treganna Band, Pojat, Alivaltiosihteeri",
    "date": "2026-10-24",
@@ -1710,6 +1718,14 @@
    "time": "23:30",
    "url": "https://www.facebook.com/events/1894493998499681/",
    "ticket_url": "https://www.facebook.com/events/1894493998499681/"
+  },
+  {
+   "venue": "lepakkomies",
+   "title": "MARSUPOTAMIA – ASCENSION",
+   "date": "2026-10-24",
+   "time": "19:00",
+   "url": "https://www.lepis.fi/tapahtumat/marsupotamia-ascension/",
+   "ticket_url": null
   },
   {
    "venue": "aaniwalli",
@@ -1816,22 +1832,6 @@
    "ticket_url": null
   },
   {
-   "venue": "lepakkomies",
-   "title": "333kollektiivi: HÄÄT(Ö)",
-   "date": "2026-10-27",
-   "time": "19:30",
-   "url": "https://www.lepis.fi/tapahtumat/333kollektiivi-haato-4/",
-   "ticket_url": null
-  },
-  {
-   "venue": "lepakkomies",
-   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
-   "date": "2026-10-27",
-   "time": "18:00",
-   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode-3/",
-   "ticket_url": null
-  },
-  {
    "venue": "musiikkitalo",
    "title": "Lokakuun opiskelijamatinea Musiikkitalossa",
    "date": "2026-10-27",
@@ -1897,7 +1897,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "OTTELIA KURITON (LEVYJULKKARIT)",
+   "title": "OTTELIA KURITON (LEVYJULKKARIT) + JERE IJÄS",
    "date": "2026-10-28",
    "time": "19:00",
    "url": "https://www.tiketti.fi/ottelia-kuriton-levyjulkkarit-kuudes-linja-helsinki-lippuja/120743",
@@ -1936,19 +1936,19 @@
    "ticket_url": null
   },
   {
-   "venue": "semifinal",
-   "title": "21.9. Annieeva (EP-Julkkarit)",
-   "date": "2026-10-29",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2026-10-29/annieeva-ep-julkkarit/120774/",
-   "ticket_url": null
-  },
-  {
    "venue": "glivelab",
    "title": "Absoluuttinen Nollapiste (lisäkeikka)",
    "date": "2026-10-29",
    "time": "19:00",
    "url": "https://glivelab.fi/events/absoluuttinen-nollapiste-lisakeikka-699573a3b4588faa143af489/",
+   "ticket_url": null
+  },
+  {
+   "venue": "semifinal",
+   "title": "Annieeva (EP-Julkkarit)",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://tavastiaklubi.fi/events/2026-10-29/annieeva-ep-julkkarit/120774/",
    "ticket_url": null
   },
   {
@@ -2192,6 +2192,14 @@
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15763/22051/"
   },
   {
+   "venue": "tiivistamo",
+   "title": "Night of Dalai: Uhrisavu, Teksti-TV 666, Sydän Sydän (K18)",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "url": "https://www.facebook.com/events/1371784141640431/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Nyrkkitappelu, Flippipuisto",
    "date": "2026-10-31",
@@ -2227,7 +2235,7 @@
    "venue": "semifinal",
    "title": "YOUNGHEARTED",
    "date": "2026-10-31",
-   "time": "19:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2026-10-31/younghearted/120923/",
    "ticket_url": null
   },
@@ -2688,14 +2696,6 @@
    "ticket_url": null
   },
   {
-   "venue": "korjaamo",
-   "title": "PERUUNTUNUT: Solomon Fox (US)",
-   "date": "2026-11-11",
-   "time": "19:00",
-   "url": "https://korjaamo.fi/event/solomon-fox-us/",
-   "ticket_url": null
-  },
-  {
    "venue": "musiikkitalo",
    "title": "Sibelius-Akatemian ooppera: Tuhkimo",
    "date": "2026-11-11",
@@ -2817,7 +2817,7 @@
   },
   {
    "venue": "korjaamo",
-   "title": "HYRYSYSY (levyjulkkarit)",
+   "title": "HYRYSYSY (levyjulkkarit), Pieni Poika Caleb",
    "date": "2026-11-13",
    "time": "19:30",
    "url": "https://korjaamo.fi/event/hyrysysy-levyjulkkarit/",
@@ -3472,14 +3472,6 @@
    "ticket_url": null
   },
   {
-   "venue": "semifinal",
-   "title": "28.9. Röge",
-   "date": "2026-11-26",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2026-11-26/roge/121193/",
-   "ticket_url": null
-  },
-  {
    "venue": "musiikkitalo",
    "title": "HKO – Pieni alkusoitto",
    "date": "2026-11-26",
@@ -3509,6 +3501,14 @@
    "date": "2026-11-26",
    "time": "18:00",
    "url": "https://olarinpanimo.fi/tapahtuma/pubivisa-26-11-2026-spessuteemana-mukaansatempaava-urheilu/",
+   "ticket_url": null
+  },
+  {
+   "venue": "semifinal",
+   "title": "Röge",
+   "date": "2026-11-26",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2026-11-26/roge/121193/",
    "ticket_url": null
   },
   {
@@ -3574,6 +3574,14 @@
    "time": "19:00",
    "url": "https://www.tiketti.fi/tapahtuma/120892",
    "ticket_url": "https://www.tiketti.fi/tapahtuma/120892"
+  },
+  {
+   "venue": "kulttuuritalo",
+   "title": "Disco Night",
+   "date": "2026-11-28",
+   "time": null,
+   "url": "https://kulttuuritalo.fi/tapahtuma/disco-night",
+   "ticket_url": null
   },
   {
    "venue": "musiikkitalo",
@@ -3763,7 +3771,7 @@
    "venue": "korjaamo",
    "title": "Diogi: Tyttökulta-levyjulkkarit (S/K18)",
    "date": "2026-12-03",
-   "time": "19:30",
+   "time": "18:00",
    "url": "https://korjaamo.fi/event/diogi-tyttokulta-levyjulkkarit-s-k18/",
    "ticket_url": null
   },
@@ -4457,9 +4465,9 @@
   },
   {
    "venue": "semifinal",
-   "title": "21.9. Kosto (EP-julkkarit), Arseeni",
+   "title": "Kosto (EP-julkkarit), Arseeni",
    "date": "2026-12-26",
-   "time": null,
+   "time": "19:00",
    "url": "https://tavastiaklubi.fi/events/2026-12-26/kosto-ep-julkkarit-arseeni/121117/",
    "ticket_url": null
   },
@@ -4909,6 +4917,14 @@
    "date": "2027-02-26",
    "time": "18:30",
    "url": "https://korjaamo.fi/event/edu-50-vee-edumania-edu-kehakettunen-levyjulkkarit/",
+   "ticket_url": null
+  },
+  {
+   "venue": "savoy",
+   "title": "Kyösti Mäkimattila & Leif Lindeman: Lähelläsi",
+   "date": "2027-02-26",
+   "time": "17:00",
+   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/2DC81C68DB0E48348B7D7B55D2BCAD3C/Kyosti_Makimattila_Leif_Lindeman_Lahellasi",
    "ticket_url": null
   },
   {
