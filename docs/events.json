@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-06T14:02:23+03:00",
+ "updated": "2026-10-07T13:52:19+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 93,
+   "count": 94,
    "status": "ok"
   },
   "savoy": {
    "name": "Savoy-teatteri",
    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
-   "count": 80,
+   "count": 79,
    "status": "ok"
   },
   "kuudeslinja": {
@@ -34,7 +34,7 @@
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 80,
+   "count": 82,
    "status": "ok"
   },
   "semifinal": {
@@ -70,7 +70,7 @@
   "jaahalli": {
    "name": "Helsingin Jäähalli",
    "url": "https://helsinginjaahalli.fi/tapahtumat",
-   "count": 8,
+   "count": 9,
    "status": "ok"
   },
   "barloose": {
@@ -94,7 +94,7 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 27,
+   "count": 28,
    "status": "ok"
   },
   "musiikkitalo": {
@@ -112,51 +112,11 @@
  },
  "events": [
   {
-   "venue": "lepakkomies",
-   "title": "333kollektiivi: HÄÄT(Ö)",
-   "date": "2026-10-06",
-   "time": "19:30",
-   "url": "https://www.lepis.fi/tapahtumat/333kollektiivi-haato/",
-   "ticket_url": null
-  },
-  {
-   "venue": "barloose",
-   "title": "HEO on the Loose -keikkailta",
-   "date": "2026-10-06",
-   "time": "19:00",
-   "url": "https://barloose.com/live/heo-on-the-loose-keikkailta/",
-   "ticket_url": null
-  },
-  {
-   "venue": "semifinal",
-   "title": "Kuudesta Kymmeneen",
-   "date": "2026-10-06",
-   "time": "19:00",
-   "url": "https://tavastiaklubi.fi/events/2026-10-06/kuudesta-kymmeneen/120766/",
-   "ticket_url": null
-  },
-  {
    "venue": "ontherocks",
    "title": "PERUTTU / CANCELED: Belphegor (AUT), Krisiun (BRA), Asagraum (NLD)",
    "date": "2026-10-06",
    "time": "19:00",
    "url": "https://www.rocks.fi/tapahtumat/peruttu-canceled-belphegor-aut-krisiun-bra-asagraum-nld/",
-   "ticket_url": null
-  },
-  {
-   "venue": "savoy",
-   "title": "S/S Andania toi jazzin Suomeen - 100-vuotisjuhlakonsertti",
-   "date": "2026-10-06",
-   "time": "16:00",
-   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/72C05C92A43378460D29F375BACA5B1D/S_S_Andania_toi_jazzin_Suomeen_-_100-vuotisjuhlakonsertti",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "SOLD OUT: JJ (AT): Act II – Into The Unknown Tour (S/K18)",
-   "date": "2026-10-06",
-   "time": "19:00",
-   "url": "https://korjaamo.fi/event/jj-at-act-ii-into-the-unknown-tour/",
    "ticket_url": null
   },
   {
@@ -291,7 +251,7 @@
    "venue": "barloose",
    "title": "Wibe & Erityisluokka, Kraiden, Täykky",
    "date": "2026-10-08",
-   "time": "21:30",
+   "time": "19:30",
    "url": "https://barloose.com/live/wibe-erityisluokka-kraiden-taykky/",
    "ticket_url": null
   },
@@ -305,7 +265,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: SHERE KHAN + FALLING PYRAMIDS + LILITH & THE WILD FLOWERS",
+   "title": "ALKUILLAN KONSERTTI: SHERE KHAN + FALLING PYRAMIDS + LILITH & THE WILDFLOWERS",
    "date": "2026-10-09",
    "time": "21:30",
    "url": "https://www.tiketti.fi/shere-khan-falling-pyramids-lilith-the-wild-flowers-kuudes-lippuja/120583",
@@ -709,6 +669,14 @@
    "date": "2026-10-11",
    "time": "11:30",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqfqcuk4m",
+   "ticket_url": null
+  },
+  {
+   "venue": "tiivistamo",
+   "title": "DJ Academy",
+   "date": "2026-10-12",
+   "time": "13:00",
+   "url": "https://tapahtumat.hel.fi/event/helsinki:agqrkihcvu",
    "ticket_url": null
   },
   {
@@ -1168,6 +1136,14 @@
    "ticket_url": null
   },
   {
+   "venue": "lepakkomies",
+   "title": "EMERGENCE VOL. 2",
+   "date": "2026-10-17",
+   "time": "00:00",
+   "url": "https://www.lepis.fi/tapahtumat/emergence-vol-2/",
+   "ticket_url": null
+  },
+  {
    "venue": "semifinal",
    "title": "Haavat",
    "date": "2026-10-17",
@@ -1198,6 +1174,14 @@
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-10-17-lost_society__hokka__support_st_aurora",
    "ticket_url": "https://www.tiketti.fi/lost-society-hokka-aaniwalli-helsinki-lippuja/118583"
+  },
+  {
+   "venue": "barloose",
+   "title": "Luut Kasaan, Beethoven – Chuck Berry 100 vuotta: One Dozen Berrys, The Komets",
+   "date": "2026-10-17",
+   "time": "20:30",
+   "url": "https://barloose.com/live/luut-kasaan-beethoven-chuck-berry-100-vuotta-one-dozen-berrys-the-komets/",
+   "ticket_url": null
   },
   {
    "venue": "lepakkomies",
@@ -2408,6 +2392,14 @@
    "ticket_url": "https://www.tiketti.fi/acid-arab-fra-aaniwalli-helsinki-lippuja/119967"
   },
   {
+   "venue": "olarinpanimo",
+   "title": "Aivan Mahtava Ilta vol. III.",
+   "date": "2026-11-06",
+   "time": "08:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/aivan-mahtava-ilta-vol-iii/",
+   "ticket_url": null
+  },
+  {
    "venue": "semifinal",
    "title": "Club Eternal Flame",
    "date": "2026-11-06",
@@ -2712,6 +2704,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "7.10. Viral Vegans: Juhlavuoden hyväntekeväisyyskonsertti",
+   "date": "2026-11-12",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2026-11-12/viral-vegans-juhlavuoden-hyvantekevaisyyskonsertti/121415/",
+   "ticket_url": null
+  },
+  {
    "venue": "musiikkitalo",
    "title": "HKO – Pieni alkusoitto",
    "date": "2026-11-12",
@@ -2777,7 +2777,7 @@
   },
   {
    "venue": "korjaamo",
-   "title": "Rosi (levyjulkkarit)",
+   "title": "Rosi (levyjulkkarit), Grön",
    "date": "2026-11-12",
    "time": "19:30",
    "url": "https://korjaamo.fi/event/rosi-levyjulkkarit/",
@@ -3112,6 +3112,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "6.10. Kauko Röyhkä & Voimaeläin",
+   "date": "2026-11-19",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2026-11-19/kauko-royhka-voimaelain/121402/",
+   "ticket_url": null
+  },
+  {
    "venue": "musiikkitalo",
    "title": "Ai­kam­me musii­kin luen­to­sar­ja: Stephen Webb",
    "date": "2026-11-19",
@@ -3144,14 +3152,6 @@
    "ticket_url": null
   },
   {
-   "venue": "olarinpanimo",
-   "title": "Mercedeksen uuden EP:n julkkarit",
-   "date": "2026-11-19",
-   "time": "20:00",
-   "url": "https://olarinpanimo.fi/tapahtuma/mercedeksen-uuden-epn-levyjulkkarit/",
-   "ticket_url": null
-  },
-  {
    "venue": "semifinal",
    "title": "Miika Leivo & Band, Honey Crisp",
    "date": "2026-11-19",
@@ -3174,6 +3174,14 @@
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-11-19-liskeikka_olga__yolo_club_tour",
    "ticket_url": "https://www.tiketti.fi/olga-aaniwalli-helsinki-lippuja/120235"
+  },
+  {
+   "venue": "semifinal",
+   "title": "7.10. TINA (Levyjulkkarit)",
+   "date": "2026-11-20",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2026-11-20/tina-levyjulkkarit/121418/",
+   "ticket_url": null
   },
   {
    "venue": "kuudeslinja",
@@ -3712,14 +3720,6 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "22.9. Säveltäjä Olli Lindholm -konsertti",
-   "date": "2026-12-02",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2026-12-02/saveltaja-olli-lindholm-konsertti/121074/",
-   "ticket_url": null
-  },
-  {
    "venue": "savoy",
    "title": "Anssi Kela - Nummela 25-vuotisjuhlakiertue – Loppuunmyyty! / Sold out!",
    "date": "2026-12-02",
@@ -3733,6 +3733,14 @@
    "date": "2026-12-02",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/kult-dolly-parton-tribute",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Säveltäjä Olli Lindholm -konsertti",
+   "date": "2026-12-02",
+   "time": "20:00",
+   "url": "https://tavastiaklubi.fi/events/2026-12-02/saveltaja-olli-lindholm-konsertti/121074/",
    "ticket_url": null
   },
   {
@@ -3937,7 +3945,7 @@
   },
   {
    "venue": "korjaamo",
-   "title": "Dungen (SE): Vidrig Vår -levyjulkkarit",
+   "title": "Dungen (SE): Vidrig Vår -levyjulkkarit, Pambikallio",
    "date": "2026-12-09",
    "time": "19:00",
    "url": "https://korjaamo.fi/event/dungen-se-vidrig-var-levyjulkkarit/",
@@ -4760,6 +4768,14 @@
    "ticket_url": null
   },
   {
+   "venue": "jaahalli",
+   "title": "HOLLYWOOD UNDEAD",
+   "date": "2027-02-11",
+   "time": null,
+   "url": "https://helsinginjaahalli.fi/events/hollywood-undead",
+   "ticket_url": null
+  },
+  {
    "venue": "glivelab",
    "title": "Pauliina Kokkonen (levynjulkkarit)",
    "date": "2027-02-12",
@@ -4904,19 +4920,19 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "22.9. Huora, Lähiöbotox",
-   "date": "2027-02-26",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-02-26/huora-lahiobotox/121056/",
-   "ticket_url": null
-  },
-  {
    "venue": "korjaamo",
    "title": "EDU – 50 vee: Edumania + Edu Kehäkettunen (levyjulkkarit)",
    "date": "2027-02-26",
    "time": "18:30",
    "url": "https://korjaamo.fi/event/edu-50-vee-edumania-edu-kehakettunen-levyjulkkarit/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Huora, Lähiöbotox",
+   "date": "2027-02-26",
+   "time": "20:00",
+   "url": "https://tavastiaklubi.fi/events/2027-02-26/huora-lahiobotox/121056/",
    "ticket_url": null
   },
   {
@@ -5160,6 +5176,14 @@
    "ticket_url": null
   },
   {
+   "venue": "korjaamo",
+   "title": "F (levyjulkkarit), Orvokki",
+   "date": "2027-04-16",
+   "time": "20:00",
+   "url": "https://korjaamo.fi/event/f-levyjulkkarit-orvokki/",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "The Elvis Concert 2027 (USA)",
    "date": "2027-04-16",
@@ -5273,6 +5297,14 @@
   },
   {
    "venue": "kulttuuritalo",
+   "title": "Bianca del Rio – It Gets Bitter",
+   "date": "2027-05-10",
+   "time": null,
+   "url": "https://kulttuuritalo.fi/tapahtuma/bianca-del-rio-it-gets-bitter",
+   "ticket_url": null
+  },
+  {
+   "venue": "kulttuuritalo",
    "title": "Helsinki Lit 2027 – käännöskirjallisuusfestivaali 21.-22.5. 2027",
    "date": "2027-05-22",
    "time": null,
@@ -5324,7 +5356,7 @@
    "title": "REAPER FEST 2027",
    "date": "2027-09-17",
    "time": "20:00",
-   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119664/",
+   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119662/",
    "ticket_url": null
   },
   {
