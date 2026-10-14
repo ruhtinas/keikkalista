@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T14:26:35+03:00",
+ "updated": "2026-10-14T12:18:48+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
@@ -16,7 +16,7 @@
   "kuudeslinja": {
    "name": "Kuudes Linja",
    "url": "https://kuudeslinja.com/",
-   "count": 32,
+   "count": 33,
    "status": "ok"
   },
   "aaniwalli": {
@@ -28,25 +28,25 @@
   "glivelab": {
    "name": "G Livelab Helsinki",
    "url": "https://glivelab.fi/",
-   "count": 23,
+   "count": 36,
    "status": "ok"
   },
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 80,
+   "count": 79,
    "status": "ok"
   },
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 27,
+   "count": 29,
    "status": "ok"
   },
   "korjaamo": {
    "name": "Korjaamo",
    "url": "https://korjaamo.fi/tapahtumat/",
-   "count": 75,
+   "count": 77,
    "status": "ok"
   },
   "lepakkomies": {
@@ -82,7 +82,7 @@
   "olarinpanimo": {
    "name": "Olarin Panimo Helsinki",
    "url": "https://olarinpanimo.fi/tapahtumat/",
-   "count": 17,
+   "count": 18,
    "status": "ok"
   },
   "allas": {
@@ -94,13 +94,13 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 24,
+   "count": 23,
    "status": "ok"
   },
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 104,
+   "count": 102,
    "status": "ok"
   },
   "vernissa": {
@@ -111,62 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "lepakkomies",
-   "title": "333kollektiivi: HÄÄT(Ö)",
-   "date": "2026-10-13",
-   "time": "19:30",
-   "url": "https://www.lepis.fi/tapahtumat/333kollektiivi-haato/",
-   "ticket_url": null
-  },
-  {
-   "venue": "lepakkomies",
-   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
-   "date": "2026-10-13",
-   "time": "18:00",
-   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode/",
-   "ticket_url": null
-  },
-  {
-   "venue": "tavastia",
-   "title": "Hardcore Superstar (SWE)",
-   "date": "2026-10-13",
-   "time": "20:30",
-   "url": "https://tavastiaklubi.fi/events/2026-10-13/hardcore-superstar-swe/118482/",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "How to Live Together in Sound? Towards Sonic Democracy",
-   "date": "2026-10-13",
-   "time": "09:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/how-to-live-together-in-sound-towards-sonic-democracy-13-10-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "SALAKERTA – Turvallisemman tilan komediaklubi",
-   "date": "2026-10-13",
-   "time": "18:30",
-   "url": "https://korjaamo.fi/event/salakerta-turvallisemman-tilan-komediaklubi-2/",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Siban kahvikonsertit Musiikkitalossa: Sibelius-Akatemian alttoviuluopiskelijat",
-   "date": "2026-10-13",
-   "time": "14:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/siban-kahvikonsertit-musiikkitalossa-sibelius-akatemian-alttoviuluopiskelijat-13-10-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "tiivistamo",
-   "title": "Suvilahden Smash-ilta",
-   "date": "2026-10-13",
-   "time": "14:00",
-   "url": "https://tapahtumat.hel.fi/event/helsinki:agqkug66gq",
-   "ticket_url": null
-  },
   {
    "venue": "jaahalli",
    "title": "HIFK - TPS Klo 18:30",
@@ -1048,6 +992,22 @@
    "ticket_url": null
   },
   {
+   "venue": "lepakkomies",
+   "title": "Kylmät Aallot x Culling Sessions: EROTICA ELECTRONICA",
+   "date": "2026-10-23",
+   "time": "00:00",
+   "url": "https://www.lepis.fi/tapahtumat/kylmat-aallot-x-culling-sessions-erotica-electronica/",
+   "ticket_url": null
+  },
+  {
+   "venue": "lepakkomies",
+   "title": "Last Penance (PL) + Wombscape (JP) + Chemical Burn (FI) + A Paradise (SE)",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "url": "https://www.lepis.fi/tapahtumat/last-penance-pl-wombscape-jp-chemical-burn-fi-a-paradise-se/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Litku Klemetti",
    "date": "2026-10-23",
@@ -1816,14 +1776,6 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "29.9. Sibelius-lukion Bändimaraton",
-   "date": "2026-11-02",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2026-11-02/sibelius-lukion-bandimaraton/121305/",
-   "ticket_url": null
-  },
-  {
    "venue": "savoy",
    "title": "Aynur (TUR/KRD): Rabe – Etnosoi! Festival",
    "date": "2026-11-02",
@@ -1837,6 +1789,14 @@
    "date": "2026-11-02",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/esdeekid-uk-council-house-rat-tour",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Sibelius-lukion Bändimaraton",
+   "date": "2026-11-02",
+   "time": "20:30",
+   "url": "https://tavastiaklubi.fi/events/2026-11-02/sibelius-lukion-bandimaraton/121305/",
    "ticket_url": null
   },
   {
@@ -1977,7 +1937,7 @@
   },
   {
    "venue": "aaniwalli",
-   "title": "Acid Arab (FR)",
+   "title": "Acid Arab (FR) , DNIL",
    "date": "2026-11-06",
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-11-06-acid_arab_fr",
@@ -2509,6 +2469,14 @@
    "date": "2026-11-13",
    "time": "19:00",
    "url": "https://www.stadissa.fi/tapahtumat/117206/surma",
+   "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: MONOPOLI MUSIC LIVE – ADI L HASLA, ROOMEO & BAHAMO",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://kuudeslinja.com/",
    "ticket_url": null
   },
   {
@@ -3496,6 +3464,14 @@
    "ticket_url": null
   },
   {
+   "venue": "semifinal",
+   "title": "14.10. LEFT",
+   "date": "2026-12-04",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2026-12-04/left/121556/",
+   "ticket_url": null
+  },
+  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: VACUOUS (UK) + DOME RUNNER + THROAT + SISAR",
    "date": "2026-12-04",
@@ -4088,6 +4064,14 @@
    "ticket_url": null
   },
   {
+   "venue": "olarinpanimo",
+   "title": "19.12. – DEATH DOOM NIGHT: Scumripper, Kahtia, Mutant & Hekatoxen",
+   "date": "2026-12-19",
+   "time": "20:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/19-12-death-doom-night-scumripper-kahtia-mutant-hekatoxen/",
+   "ticket_url": null
+  },
+  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: T.JARVA & THE DARK PLACE (JULKKARIT & KAHDEN SETIN ERIKOISKEIKKA)",
    "date": "2026-12-19",
@@ -4256,6 +4240,14 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Raoul Björkenheim & Paal Nilssen-Love",
+   "date": "2027-01-07",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/raoul-bjorkenheim-paal-nilssen-love-6aa9022db7a25a2b008f3271/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Vörjeans",
    "date": "2027-01-07",
@@ -4312,6 +4304,30 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Jukka Perko & Jay Kortehisto: Foxtet",
+   "date": "2027-01-14",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/jukka-perko-jay-kortehisto-foxtet-6aa902a8b7a25a2b008f38fb/",
+   "ticket_url": null
+  },
+  {
+   "venue": "glivelab",
+   "title": "Marjo Leinonen & Bublicans (levynjulkkarit)",
+   "date": "2027-01-15",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/marjo-leinonen-bublicans-levynjulkkarit-6aa902e6b7a25a2b008f3c9f/",
+   "ticket_url": null
+  },
+  {
+   "venue": "korjaamo",
+   "title": "Radio Supernova (levyjulkkarit), Sisar",
+   "date": "2027-01-15",
+   "time": "19:30",
+   "url": "https://korjaamo.fi/event/radio-supernova-sisar/",
+   "ticket_url": null
+  },
+  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: DEMONIC DEATH JUDGE – SEAWEED 10 YEAR ANNIVERSARY + SUNNIVA + ELEKTRUS EREKTUS",
    "date": "2027-01-16",
@@ -4326,6 +4342,14 @@
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2027-01-16-nordic_death_mass",
    "ticket_url": "https://www.tiketti.fi/nordic-death-mass-aaniwalli-helsinki-lippuja/121220"
+  },
+  {
+   "venue": "glivelab",
+   "title": "Silmien Takana: VIRTA – Yhdessä",
+   "date": "2027-01-16",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/silmien-takana-virta-yhdessa-6aa903b0b7a25a2b008f4cd9/",
+   "ticket_url": null
   },
   {
    "venue": "kulttuuritalo",
@@ -4357,6 +4381,14 @@
    "date": "2027-01-20",
    "time": "17:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/887DE6BE2DED7DA01EA7D449C70F4438/The_Master_and_Margarita",
+   "ticket_url": null
+  },
+  {
+   "venue": "glivelab",
+   "title": "Oiro Pena",
+   "date": "2027-01-21",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/oiro-pena-6aa903f5b7a25a2b008f512e/",
    "ticket_url": null
   },
   {
@@ -4456,6 +4488,14 @@
    "ticket_url": null
   },
   {
+   "venue": "korjaamo",
+   "title": "Alchemy – Dire Straits 50th Anniversary -show",
+   "date": "2027-01-30",
+   "time": "19:00",
+   "url": "https://korjaamo.fi/event/alchemy-dire-straits-50th-anniversary-show/",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "Maagikot 6 – The Art of Illusion – Pete Poskiparta, Joni Pakanen, Kate ja Pasi sekä Robert Jägerhorn",
    "date": "2027-01-30",
@@ -4504,11 +4544,27 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Kaseva",
+   "date": "2027-02-04",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/kaseva-6aa9041cb7a25a2b008f541e/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Crashdiet (SWE)",
    "date": "2027-02-05",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-02-05/crashdiet-swe/119073/",
+   "ticket_url": null
+  },
+  {
+   "venue": "glivelab",
+   "title": "Maa ilmasta (levynjulkkarit) + Idän voima",
+   "date": "2027-02-05",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/maa-ilmasta-levynjulkkarit-idan-voima-6aa9043db7a25a2b008f5614/",
    "ticket_url": null
   },
   {
@@ -4552,11 +4608,27 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Aili Ikonen",
+   "date": "2027-02-11",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/aili-ikonen-6aa9045fb7a25a2b008f6069/",
+   "ticket_url": null
+  },
+  {
    "venue": "jaahalli",
    "title": "HOLLYWOOD UNDEAD",
    "date": "2027-02-11",
    "time": null,
    "url": "https://helsinginjaahalli.fi/events/hollywood-undead",
+   "ticket_url": null
+  },
+  {
+   "venue": "semifinal",
+   "title": "14.10. Aukusti Koivisto",
+   "date": "2027-02-12",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-02-12/aukusti-koivisto/121417/",
    "ticket_url": null
   },
   {
@@ -4632,19 +4704,19 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "29.9. Ruusut",
-   "date": "2027-02-18",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-02-18/ruusut/121292/",
-   "ticket_url": null
-  },
-  {
    "venue": "korjaamo",
    "title": "Freud Marx Engels & Jung Revisited",
    "date": "2027-02-18",
    "time": "19:00",
    "url": "https://korjaamo.fi/event/freud-marx-engels-jung-revisited/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Ruusut",
+   "date": "2027-02-18",
+   "time": "20:30",
+   "url": "https://tavastiaklubi.fi/events/2027-02-18/ruusut/121292/",
    "ticket_url": null
   },
   {
@@ -4912,6 +4984,14 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Eternal Erection",
+   "date": "2027-03-19",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/eternal-erection-6aa90758b7a25a2b008f9679/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Dina Ögon (SWE)",
    "date": "2027-03-20",
@@ -4957,6 +5037,30 @@
    "date": "2027-03-29",
    "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-03-29/saul-williams-usa/120779/",
+   "ticket_url": null
+  },
+  {
+   "venue": "korjaamo",
+   "title": "Genom Natten (SE)",
+   "date": "2027-04-01",
+   "time": "19:00",
+   "url": "https://korjaamo.fi/event/genom-natten-se/",
+   "ticket_url": null
+  },
+  {
+   "venue": "glivelab",
+   "title": "R.E.M. For The People plays Automatic For The People",
+   "date": "2027-04-03",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/r-e-m-for-the-people-plays-automatic-for-the-peopl-6aa907a2b7a25a2b008f9df1/",
+   "ticket_url": null
+  },
+  {
+   "venue": "glivelab",
+   "title": "Charlie Hunter & Ella Feingold (US)",
+   "date": "2027-04-07",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/charlie-hunter-ella-feingold-us-6ac3993ff64d5bd670d69c5a/",
    "ticket_url": null
   },
   {
@@ -5024,6 +5128,14 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Tamikrest (ML)",
+   "date": "2027-04-21",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/tamikrest-ml-6ac8c4c94ead0d22dd61948e/",
+   "ticket_url": null
+  },
+  {
    "venue": "kulttuuritalo",
    "title": "Timo Kotipelto ja Jarkko Ahola – Voices Unleashed",
    "date": "2027-04-21",
@@ -5037,6 +5149,14 @@
    "date": "2027-04-23",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/dragonforce",
+   "ticket_url": null
+  },
+  {
+   "venue": "glivelab",
+   "title": "Lizz Wright & Kenny Banks Sr. (US)",
+   "date": "2027-04-23",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/lizz-wright-kenny-banks-sr-us-6ac88af5fdabdd84b2a8a962/",
    "ticket_url": null
   },
   {
