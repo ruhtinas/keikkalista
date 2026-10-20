@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-19T12:37:34+03:00",
+ "updated": "2026-10-20T12:09:19+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 90,
+   "count": 91,
    "status": "ok"
   },
   "savoy": {
@@ -16,7 +16,7 @@
   "kuudeslinja": {
    "name": "Kuudes Linja",
    "url": "https://kuudeslinja.com/",
-   "count": 30,
+   "count": 33,
    "status": "ok"
   },
   "aaniwalli": {
@@ -34,13 +34,13 @@
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 77,
+   "count": 79,
    "status": "ok"
   },
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 31,
+   "count": 32,
    "status": "ok"
   },
   "korjaamo": {
@@ -70,7 +70,7 @@
   "jaahalli": {
    "name": "Helsingin Jäähalli",
    "url": "https://helsinginjaahalli.fi/tapahtumat",
-   "count": 7,
+   "count": 11,
    "status": "ok"
   },
   "barloose": {
@@ -94,13 +94,13 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 20,
+   "count": 22,
    "status": "ok"
   },
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 107,
+   "count": 109,
    "status": "ok"
   },
   "vernissa": {
@@ -111,14 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "musiikkitalo",
-   "title": "Sirkka-Liisa Kaakinen-Pilchin viululuokan konsertti",
-   "date": "2026-10-19",
-   "time": "18:30",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/sirkka-liisa-kaakinen-pilchin-viululuokan-konsertti-19-10-2026-2",
-   "ticket_url": null
-  },
   {
    "venue": "lepakkomies",
    "title": "333kollektiivi: HÄÄT(Ö)",
@@ -187,7 +179,7 @@
    "venue": "kuudeslinja",
    "title": "ALEXANDRA CĂPITĂNESCU (RO)",
    "date": "2026-10-21",
-   "time": "19:00",
+   "time": "20:00",
    "url": "https://gotobeat.com/gig/alexandra-capitanescu-helsinki-kuudes-linja/",
    "ticket_url": "https://gotobeat.com/gig/alexandra-capitanescu-helsinki-kuudes-linja/"
   },
@@ -505,7 +497,7 @@
   },
   {
    "venue": "tiivistamo",
-   "title": "Senya + support (S/K18)",
+   "title": "Senya, Dj Pixi (S/K18)",
    "date": "2026-10-23",
    "time": "16:00",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqibkcjju",
@@ -816,6 +808,14 @@
    "ticket_url": null
   },
   {
+   "venue": "jaahalli",
+   "title": "HIFK - Ilves Klo 18:30",
+   "date": "2026-10-28",
+   "time": "18:30",
+   "url": "https://helsinginjaahalli.fi/events/hifk-ilves-09-01-klo-1930",
+   "ticket_url": "https://www.ticketmaster.fi/event/hifk-ilves-lippuja/688460335"
+  },
+  {
    "venue": "musiikkitalo",
    "title": "HKO: Avoin kenraaliharjoitus – Sankareiden paluu",
    "date": "2026-10-28",
@@ -849,7 +849,7 @@
   },
   {
    "venue": "tiivistamo",
-   "title": "LOUDER:",
+   "title": "LOUDER: Khaos, KryoniX, Fatal Divine (S)",
    "date": "2026-10-28",
    "time": "16:00",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqvha6l74",
@@ -1136,6 +1136,14 @@
    "ticket_url": null
   },
   {
+   "venue": "kuudeslinja",
+   "title": "POP FROM THE GRAVE",
+   "date": "2026-10-30",
+   "time": "23:15",
+   "url": "https://www.eventu.al/en/event/9336/finland/helsinki/pop-grave",
+   "ticket_url": "https://www.eventu.al/en/event/9336/finland/helsinki/pop-grave"
+  },
+  {
    "venue": "musiikkitalo",
    "title": "RSO & Anja Bihlmaier & Sergei Krylov",
    "date": "2026-10-30",
@@ -1181,6 +1189,14 @@
    "date": "2026-10-30",
    "time": "17:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/7ADEC2ED50C9689AB7D1DD09E44A33C6/The_Miracle_A_night_with_Queen_-_Freddie_Mercury_80v_-konsertti",
+   "ticket_url": null
+  },
+  {
+   "venue": "tiivistamo",
+   "title": "U18 Keikkan: Papi Santana, Wewwe (S)",
+   "date": "2026-10-30",
+   "time": "16:00",
+   "url": "https://yle-lv.creamailer.fi/survey/welcome/onym9zgj4jzgo",
    "ticket_url": null
   },
   {
@@ -1880,6 +1896,14 @@
    "ticket_url": null
   },
   {
+   "venue": "jaahalli",
+   "title": "HIFK - Jokerit Klo 18:30",
+   "date": "2026-11-11",
+   "time": "18:30",
+   "url": "https://helsinginjaahalli.fi/events/hifk-jokerit-11-11-klo-1830",
+   "ticket_url": "https://www.ticketmaster.fi/event/hifk-jokerit-lippuja/560845662"
+  },
+  {
    "venue": "musiikkitalo",
    "title": "HKO: Bella Miah",
    "date": "2026-11-11",
@@ -1937,7 +1961,7 @@
   },
   {
    "venue": "korjaamo",
-   "title": "Jamie Woon (UK) – Solo Tour",
+   "title": "Jamie Woon (UK) – Solo Tour, Myrtsi",
    "date": "2026-11-12",
    "time": "19:00",
    "url": "https://korjaamo.fi/event/jamie-woon-uk-solo-tour/",
@@ -2552,6 +2576,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "Levymessut",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://tavastiaklubi.fi/events/2026-11-21/levymessut/121706/",
+   "ticket_url": null
+  },
+  {
    "venue": "musiikkitalo",
    "title": "Louder Than Sirens",
    "date": "2026-11-21",
@@ -2728,6 +2760,14 @@
    "ticket_url": null
   },
   {
+   "venue": "jaahalli",
+   "title": "HIFK - TPS Klo 18:30",
+   "date": "2026-11-25",
+   "time": "18:30",
+   "url": "https://helsinginjaahalli.fi/events/hifk-tps-19-12-klo-1830",
+   "ticket_url": "https://www.ticketmaster.fi/event/hifk-tps-lippuja/736847369"
+  },
+  {
    "venue": "musiikkitalo",
    "title": "HKO – Konserttietkot",
    "date": "2026-11-25",
@@ -2792,6 +2832,22 @@
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15694/21889/"
   },
   {
+   "venue": "musiikkitalo",
+   "title": "Maisterikonsertti: Jaakko Jukonen, harmonikka",
+   "date": "2026-11-26",
+   "time": "18:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/maisterikonsertti-jaakko-jukonen-harmonikka-26-11-2026-2",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "Maisterikonsertti: Leonardo Rojnic, harmonikka",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/maisterikonsertti-leonardo-rojnic-harmonikka-26-11-2026-2",
+   "ticket_url": null
+  },
+  {
    "venue": "korjaamo",
    "title": "Only The Poets (UK): And I’d Do It Again, Alex Spencer (UK) (S/K18)",
    "date": "2026-11-26",
@@ -2838,6 +2894,14 @@
    "time": "19:00",
    "url": "https://www.tiketti.fi/die-oberherren-swe-dharma-guns-kuudes-linja-helsinki-lippuja/119403",
    "ticket_url": "https://www.tiketti.fi/die-oberherren-swe-dharma-guns-kuudes-linja-helsinki-lippuja/119403"
+  },
+  {
+   "venue": "jaahalli",
+   "title": "HIFK - SaiPa klo 19:30",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "url": "https://helsinginjaahalli.fi/events/hifk-saipa-04-03-klo-1830",
+   "ticket_url": "https://www.ticketmaster.fi/event/hifk-saipa-lippuja/1999699926"
   },
   {
    "venue": "musiikkitalo",
@@ -3392,6 +3456,14 @@
    "ticket_url": "https://www.tiketti.fi/ville1000000-r1-kuudes-linja-helsinki-lippuja/121416"
   },
   {
+   "venue": "tiivistamo",
+   "title": "Alma Alanko + support (TBA) S/K18",
+   "date": "2026-12-11",
+   "time": "16:00",
+   "url": "https://tapahtumat.hel.fi/event/helsinki:agqvhbvpoq",
+   "ticket_url": null
+  },
+  {
    "venue": "kulttuuritalo",
    "title": "Black Devils – 30th Anniversary Show",
    "date": "2026-12-11",
@@ -3752,6 +3824,14 @@
    "ticket_url": null
   },
   {
+   "venue": "musiikkitalo",
+   "title": "Oboeluokan konsertti",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/oboeluokan-konsertti-17-12-2026-2",
+   "ticket_url": null
+  },
+  {
    "venue": "olarinpanimo",
    "title": "Pubivisa 17.12.2026 – spessuteemana musiikki",
    "date": "2026-12-17",
@@ -4032,6 +4112,14 @@
    "ticket_url": null
   },
   {
+   "venue": "semifinal",
+   "title": "20.10. Kaikkeus, Vaasa Palaa",
+   "date": "2027-01-02",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-01-02/kaikkeus-vaasa-palaa/121615/",
+   "ticket_url": null
+  },
+  {
    "venue": "korjaamo",
    "title": "Jukka Nousiainen & Sini Suvanto (levyjulkkarit)",
    "date": "2027-01-05",
@@ -4102,6 +4190,14 @@
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-01-09/tiisu-paatoskeikka/121453/",
    "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: BAD APPLES PLAYS GUNS N’ ROSES + MUSEO PLAYS MUSE",
+   "date": "2027-01-09",
+   "time": "19:00",
+   "url": "https://www.tiketti.fi/bad-apples-plays-guns-n-roses-museo-plays-muse-kuudes-linja-lippuja/121701",
+   "ticket_url": "https://www.tiketti.fi/bad-apples-plays-guns-n-roses-museo-plays-muse-kuudes-linja-lippuja/121701"
   },
   {
    "venue": "olarinpanimo",
@@ -4229,6 +4325,14 @@
    "date": "2027-01-22",
    "time": "20:00",
    "url": "https://tavastiaklubi.fi/events/2027-01-22/tuomo-my-thing-20th-anniversary/120768/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "21.10. Pikakassa, Kovaa Rasvaa, St. Hood",
+   "date": "2027-01-23",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-01-23/pikakassa-kovaa-rasvaa-st-hood/121699/",
    "ticket_url": null
   },
   {
@@ -4398,6 +4502,14 @@
    "time": "19:00",
    "url": "https://glivelab.fi/events/kaseva-6aa9041cb7a25a2b008f541e/",
    "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: TERVEET KÄDET (SUBTERRA-LEVYJULKKARIT)",
+   "date": "2027-02-05",
+   "time": "19:00",
+   "url": "https://www.tiketti.fi/terveet-kadet-kuudes-linja-helsinki-lippuja/121702",
+   "ticket_url": "https://www.tiketti.fi/terveet-kadet-kuudes-linja-helsinki-lippuja/121702"
   },
   {
    "venue": "tavastia",
@@ -4952,6 +5064,14 @@
    "ticket_url": null
   },
   {
+   "venue": "kulttuuritalo",
+   "title": "The Rock Orchestra by Candlelight – Helsinki",
+   "date": "2027-04-01",
+   "time": null,
+   "url": "https://kulttuuritalo.fi/tapahtuma/the-rock-orchestra-by-candlelight-helsinki",
+   "ticket_url": null
+  },
+  {
    "venue": "glivelab",
    "title": "R.E.M. For The People plays Automatic For The People",
    "date": "2027-04-03",
@@ -5188,7 +5308,7 @@
    "title": "REAPER FEST 2027",
    "date": "2027-09-17",
    "time": "20:00",
-   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119662/",
+   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119664/",
    "ticket_url": null
   },
   {
