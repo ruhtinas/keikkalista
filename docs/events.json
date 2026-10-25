@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:41:07+03:00",
+ "updated": "2026-10-25T11:58:33+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
@@ -10,19 +10,19 @@
   "savoy": {
    "name": "Savoy-teatteri",
    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
-   "count": 69,
+   "count": 68,
    "status": "ok"
   },
   "kuudeslinja": {
    "name": "Kuudes Linja",
    "url": "https://kuudeslinja.com/",
-   "count": 32,
+   "count": 30,
    "status": "ok"
   },
   "aaniwalli": {
    "name": "Ääniwalli",
    "url": "https://www.aaniwalli.fi/",
-   "count": 25,
+   "count": 24,
    "status": "ok"
   },
   "glivelab": {
@@ -40,13 +40,13 @@
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 33,
+   "count": 32,
    "status": "ok"
   },
   "korjaamo": {
    "name": "Korjaamo",
    "url": "https://korjaamo.fi/tapahtumat/",
-   "count": 77,
+   "count": 74,
    "status": "ok"
   },
   "lepakkomies": {
@@ -94,7 +94,7 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 21,
+   "count": 20,
    "status": "ok"
   },
   "musiikkitalo": {
@@ -112,75 +112,11 @@
  },
  "events": [
   {
-   "venue": "aaniwalli",
-   "title": "MODUL: YANAMASTE (GE) , CONNTEX (DE) , ALLFIVE, BASSOUS: ELVIRA, JAYDN",
-   "date": "2026-10-23",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2026-10-23-modul_yanamaste_ge_conntex_de_allfive",
-   "ticket_url": "https://www.tiketti.fi/modul-aaniwalli-helsinki-lippuja/120656"
-  },
-  {
-   "venue": "barloose",
-   "title": "Midnight City Club w/ DJ John Curtain",
-   "date": "2026-10-23",
-   "time": "23:30",
-   "url": "https://barloose.com/live/midnight-city-club-w-dj-john-curtain/",
-   "ticket_url": null
-  },
-  {
    "venue": "semifinal",
    "title": "16.10. House of Auer: Kymmenen – Discoteca Auer",
    "date": "2026-10-24",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2026-10-24/house-of-auer-kymmenen-discoteca-auer/121605/",
-   "ticket_url": null
-  },
-  {
-   "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: PEDRO (LEVYJULKKARIT) + VICTOR NORDIS",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "url": "https://www.tiketti.fi/pedro-victor-nordis-kuudes-linja-helsinki-lippuja/120803",
-   "ticket_url": "https://www.tiketti.fi/pedro-victor-nordis-kuudes-linja-helsinki-lippuja/120803"
-  },
-  {
-   "venue": "semifinal",
-   "title": "ARTKILLS, Melankolia, Lust For Lily",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "url": "https://tavastiaklubi.fi/events/2026-10-24/artkills-melankolia-lust-for-lily/120720/",
-   "ticket_url": null
-  },
-  {
-   "venue": "savoy",
-   "title": "Fiesta de Cuba: Eliades Ochoa",
-   "date": "2026-10-24",
-   "time": "16:00",
-   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/FDEDD319E344C2B4AEA9E4F8263984C0/Fiesta_de_Cuba_Eliades_Ochoa_",
-   "ticket_url": null
-  },
-  {
-   "venue": "ontherocks",
-   "title": "For My Pain…, Scars of Solitude",
-   "date": "2026-10-24",
-   "time": "20:00",
-   "url": "https://www.rocks.fi/tapahtumat/for-my-pain-scars-of-solitude/",
-   "ticket_url": "https://www.tiketti.fi/tapahtuma/119846"
-  },
-  {
-   "venue": "korjaamo",
-   "title": "Hiljaiset Levyt 40 vuotta -juhlakeikka: Hiljaiset All Stars, Dave Treganna Band, Pojat, Alivaltiosihteeri",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "url": "https://korjaamo.fi/event/hiljaiset-levyt-40-vuotta-juhlakeikka-hiljaiset-all-stars-dave-treganna-band-pojat-alivaltiosihteeri-juonto/",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "Ilta – Ystävä-kiertue 2026",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "url": "https://korjaamo.fi/event/ilta-ystava-kiertue-2026/",
    "ticket_url": null
   },
   {
@@ -200,68 +136,12 @@
    "ticket_url": null
   },
   {
-   "venue": "kuudeslinja",
-   "title": "LADI",
-   "date": "2026-10-24",
-   "time": "23:30",
-   "url": "https://www.facebook.com/events/1894493998499681/",
-   "ticket_url": "https://www.facebook.com/events/1894493998499681/"
-  },
-  {
-   "venue": "barloose",
-   "title": "Loosen Jytädisko: DJ Anaheim",
-   "date": "2026-10-24",
-   "time": "23:30",
-   "url": "https://barloose.com/live/loosen-jytadisko-dj-anaheim/",
-   "ticket_url": null
-  },
-  {
-   "venue": "lepakkomies",
-   "title": "MARSUPOTAMIA – ASCENSION",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "url": "https://www.lepis.fi/tapahtumat/marsupotamia-ascension/",
-   "ticket_url": null
-  },
-  {
    "venue": "aaniwalli",
    "title": "REGGAE UNITED (2 YEAR ANNIVERSARY JAM)",
    "date": "2026-10-24",
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-10-24-reggae_united_2_year_anniversary_jam",
    "ticket_url": "https://www.eventu.al/en/event/10726/finland/helsinki/reggae-united-2-year-anniversary-jam"
-  },
-  {
-   "venue": "korjaamo",
-   "title": "SOLD OUT: Päiväkirjaklubi",
-   "date": "2026-10-24",
-   "time": "18:00",
-   "url": "https://korjaamo.fi/event/paivakirjaklubi-43/",
-   "ticket_url": null
-  },
-  {
-   "venue": "tiivistamo",
-   "title": "Shared Frequencies: Pixelache Festival 2026 (K18)",
-   "date": "2026-10-24",
-   "time": "14:00",
-   "url": "https://tapahtumat.hel.fi/event/helsinki:agqpmpys2a",
-   "ticket_url": null
-  },
-  {
-   "venue": "ontherocks",
-   "title": "Turmion Kätilöt – The Colossal After Party",
-   "date": "2026-10-24",
-   "time": "23:00",
-   "url": "https://www.rocks.fi/tapahtumat/turmion-katilot-the-colossal-after-party/",
-   "ticket_url": "https://www.tiketti.fi/tapahtuma/118918"
-  },
-  {
-   "venue": "barloose",
-   "title": "Vrid Up (SE), Trench Dogs (SE), The Switchblades",
-   "date": "2026-10-24",
-   "time": "20:00",
-   "url": "https://barloose.com/live/vrid-up-se-trench-dogs-se-support/",
-   "ticket_url": null
   },
   {
    "venue": "tavastia",
@@ -284,7 +164,7 @@
    "title": "Huilistit lavalla!",
    "date": "2026-10-26",
    "time": "19:30",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/huilistit-lavalla-26-10-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/huilistit-lavalla-26-10-2026",
    "ticket_url": null
   },
   {
@@ -364,7 +244,7 @@
    "title": "Päi­vi Se­ve­rei­den harp­pu­luo­kan kon­sert­ti",
    "date": "2026-10-27",
    "time": "18:30",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/paivi-severeiden-harppuluokan-konsertti-27-10-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/paivi-severeiden-harppuluokan-konsertti-27-10-2026",
    "ticket_url": null
   },
   {
@@ -1312,6 +1192,14 @@
    "ticket_url": null
   },
   {
+   "venue": "barloose",
+   "title": "SF Perkele Presents: SPIRITUS MORTIS + COUNTING HOURS",
+   "date": "2026-11-06",
+   "time": "20:30",
+   "url": "https://barloose.com/live/sf-perkele-presents-spiritus-mortis-counting-hours/",
+   "ticket_url": null
+  },
+  {
    "venue": "korjaamo",
    "title": "Steve ’n’ Seagulls",
    "date": "2026-11-06",
@@ -1470,6 +1358,14 @@
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-11-07-risto__kaksi_setti",
    "ticket_url": "https://www.tiketti.fi/risto-kaksi-settia-aaniwalli-helsinki-lippuja/119310"
+  },
+  {
+   "venue": "barloose",
+   "title": "Räyhärock 2026: Creamageddon",
+   "date": "2026-11-07",
+   "time": "18:00",
+   "url": "https://barloose.com/live/rayharock-2026-creamageddon/",
+   "ticket_url": null
   },
   {
    "venue": "kulttuuritalo",
@@ -1648,6 +1544,22 @@
    "ticket_url": null
   },
   {
+   "venue": "barloose",
+   "title": "Läppävika, Nollapiste21, SA-INT",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "url": "https://barloose.com/live/lappavika-nollapiste21-sa-int/",
+   "ticket_url": null
+  },
+  {
+   "venue": "lepakkomies",
+   "title": "Pepita Vanni + Ville Miettinen + Sanni Mäntyranta",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.lepis.fi/tapahtumat/pepita-vanni-ville-miettinen-sanni-mantyranta/",
+   "ticket_url": null
+  },
+  {
    "venue": "ontherocks",
    "title": "Saga Olsson (levyjulkkarit), Muovikukat",
    "date": "2026-11-11",
@@ -1702,6 +1614,14 @@
    "time": "19:00",
    "url": "https://korjaamo.fi/event/jamie-woon-uk-solo-tour/",
    "ticket_url": null
+  },
+  {
+   "venue": "ontherocks",
+   "title": "John Corabi & Friends (USA)",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.rocks.fi/tapahtumat/john-corabi-friends-usa/",
+   "ticket_url": "https://www.tiketti.fi/tapahtuma/118674"
   },
   {
    "venue": "kulttuuritalo",
@@ -1822,6 +1742,14 @@
    "time": "17:00",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqmimr5pu",
    "ticket_url": null
+  },
+  {
+   "venue": "ontherocks",
+   "title": "K30 Live: The Pansies",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://www.rocks.fi/tapahtumat/k30-live-the-pansies/",
+   "ticket_url": "https://www.tiketti.fi/tapahtuma/121162"
   },
   {
    "venue": "kulttuuritalo",
