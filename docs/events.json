@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-27T12:38:02+03:00",
+ "updated": "2026-10-28T13:22:41+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 88,
+   "count": 87,
    "status": "ok"
   },
   "savoy": {
@@ -22,31 +22,31 @@
   "aaniwalli": {
    "name": "Ääniwalli",
    "url": "https://www.aaniwalli.fi/",
-   "count": 25,
+   "count": 26,
    "status": "ok"
   },
   "glivelab": {
    "name": "G Livelab Helsinki",
    "url": "https://glivelab.fi/",
-   "count": 35,
+   "count": 36,
    "status": "ok"
   },
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 79,
+   "count": 81,
    "status": "ok"
   },
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 31,
+   "count": 33,
    "status": "ok"
   },
   "korjaamo": {
    "name": "Korjaamo",
    "url": "https://korjaamo.fi/tapahtumat/",
-   "count": 76,
+   "count": 75,
    "status": "ok"
   },
   "lepakkomies": {
@@ -82,7 +82,7 @@
   "olarinpanimo": {
    "name": "Olarin Panimo Helsinki",
    "url": "https://olarinpanimo.fi/tapahtumat/",
-   "count": 17,
+   "count": 18,
    "status": "ok"
   },
   "allas": {
@@ -100,7 +100,7 @@
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 109,
+   "count": 105,
    "status": "ok"
   },
   "vernissa": {
@@ -111,70 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "lepakkomies",
-   "title": "333kollektiivi: HÄÄT(Ö)",
-   "date": "2026-10-27",
-   "time": "19:30",
-   "url": "https://www.lepis.fi/tapahtumat/333kollektiivi-haato/",
-   "ticket_url": null
-  },
-  {
-   "venue": "lepakkomies",
-   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
-   "date": "2026-10-27",
-   "time": "18:00",
-   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode/",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Lokakuun opiskelijamatinea Musiikkitalossa",
-   "date": "2026-10-27",
-   "time": "12:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/lokakuun-opiskelijamatinea-musiikkitalossa-27-10-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "Naurukorjaamo: Tomi Haustola, Joel Makengo, Pietari Vihula, Joonas Ranta",
-   "date": "2026-10-27",
-   "time": "18:30",
-   "url": "https://korjaamo.fi/event/naurukorjaamo-tomi-haustola-joel-makengo-pietari-vihula-joonas-ranta/",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "Poetry Slam",
-   "date": "2026-10-27",
-   "time": "19:00",
-   "url": "https://korjaamo.fi/event/poetry-slam-2/",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Päi­vi Se­ve­rei­den harp­pu­luo­kan kon­sert­ti",
-   "date": "2026-10-27",
-   "time": "18:30",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/paivi-severeiden-harppuluokan-konsertti-27-10-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Rhapsody in Blue & Dvořák – urut orkesterina",
-   "date": "2026-10-27",
-   "time": "19:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/rhapsody-in-blue-dvorak-urut-orkesterina-27-10-2026",
-   "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15775/22165/"
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Siban kahvikonsertti Musiikkitalossa: Sibelius-Akatemian vaskisoittajat",
-   "date": "2026-10-27",
-   "time": "14:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/siban-kahvikonsertti-musiikkitalossa-sibelius-akatemian-vaskisoittajat-27-10-2026",
-   "ticket_url": null
-  },
   {
    "venue": "ontherocks",
    "title": "Street Bar goes Dimmu Borgir & Behemoth! DJ Punis",
@@ -1315,7 +1251,7 @@
    "venue": "korjaamo",
    "title": "Elito Revé y su Charangón (CU)",
    "date": "2026-11-08",
-   "time": "18:00",
+   "time": "18:30",
    "url": "https://korjaamo.fi/event/elito-reve-y-su-charangon-cu/",
    "ticket_url": null
   },
@@ -1600,6 +1536,14 @@
    "ticket_url": null
   },
   {
+   "venue": "lepakkomies",
+   "title": "Marrasvieraat: Absolute Key + Animal Sociale + Kuolema-duo",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://www.lepis.fi/tapahtumat/marrasvieraat-absolute-key-animal-sociale-kuolema-duo/",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "Michael Mayo (USA) & UMO Helsinki Jazz Orchestra",
    "date": "2026-11-12",
@@ -1677,6 +1621,14 @@
    "date": "2026-11-13",
    "time": "19:25",
    "url": "https://tavastiaklubi.fi/events/2026-11-13/costi-uuer/120053/",
+   "ticket_url": null
+  },
+  {
+   "venue": "lepakkomies",
+   "title": "Iron & Aether: Craneium + Green King + Danakil Heat",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://www.lepis.fi/tapahtumat/iron-aether-craneium-green-king-danakil-heat/",
    "ticket_url": null
   },
   {
@@ -1909,6 +1861,14 @@
    "date": "2026-11-14",
    "time": "10:00",
    "url": "https://usagicon.carrd.co/",
+   "ticket_url": null
+  },
+  {
+   "venue": "olarinpanimo",
+   "title": "Varjot, Väylä, Viimeiset",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/148110/",
    "ticket_url": null
   },
   {
@@ -2457,10 +2417,10 @@
   },
   {
    "venue": "musiikkitalo",
-   "title": "HKO – Konserttietkot",
+   "title": "HKO – Konserttietkot: vieraana Sebastian Fagerlund",
    "date": "2026-11-25",
    "time": "18:15",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hko-konserttietkot-25-11-2026",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hko-konserttietkot-vieraana-sebastian-fagerlund-25-11-2026",
    "ticket_url": null
   },
   {
@@ -2832,6 +2792,14 @@
    "ticket_url": null
   },
   {
+   "venue": "semifinal",
+   "title": "28.10. Joka v*tun keskiviikko: Laura Haimila",
+   "date": "2026-12-02",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2026-12-02/joka-vtun-keskiviikko-laura-haimila/121637/",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "Anssi Kela - Nummela 25-vuotisjuhlakiertue – Loppuunmyyty! / Sold out!",
    "date": "2026-12-02",
@@ -3085,6 +3053,14 @@
    "date": "2026-12-08",
    "time": "19:00",
    "url": "https://korjaamo.fi/event/toolo-jam-12/",
+   "ticket_url": null
+  },
+  {
+   "venue": "semifinal",
+   "title": "28.10. Joka v*tun keskiviikko: Teemu Vesterinen",
+   "date": "2026-12-09",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2026-12-09/joka-vtun-keskiviikko-teemu-vesterinen/121640/",
    "ticket_url": null
   },
   {
@@ -3833,7 +3809,7 @@
   },
   {
    "venue": "korjaamo",
-   "title": "Aivovuoto, Eevil Stöö + TBA",
+   "title": "Aivovuoto, Eevil Stöö, DJ Kridlokk: UG Tapes",
    "date": "2026-12-28",
    "time": "20:00",
    "url": "https://korjaamo.fi/event/aivovuoto-eevil-stoo-tba/",
@@ -4032,6 +4008,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "27.10. Timo Kämäräinen",
+   "date": "2027-01-15",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-01-15/timo-kamarainen/121924/",
+   "ticket_url": null
+  },
+  {
    "venue": "glivelab",
    "title": "Marjo Leinonen & Bublicans (levynjulkkarit)",
    "date": "2027-01-15",
@@ -4217,7 +4201,7 @@
   },
   {
    "venue": "kulttuuritalo",
-   "title": "Rakkaudella Rauli – Tähtiin kirjoitettu tarina",
+   "title": "Rakkaudella Rauli – Tähtiin kirjoitettu tarina 29.1.2027",
    "date": "2027-01-29",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/rakkaudella-rauli-tahtiin-kirjoitettu-tarina",
@@ -4253,14 +4237,6 @@
    "date": "2027-01-30",
    "time": "13:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/92F668285389CB951B7F21453AF30C93/Maagikot_6_The_Art_of_Illusion",
-   "ticket_url": null
-  },
-  {
-   "venue": "kulttuuritalo",
-   "title": "Rakkaudella Rauli – Tähtiin kirjoitettu tarina",
-   "date": "2027-01-30",
-   "time": null,
-   "url": "https://kulttuuritalo.fi/tapahtuma/rakkaudella-rauli-tahtiin-kirjoitettu-tarina-2",
    "ticket_url": null
   },
   {
@@ -4600,6 +4576,14 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Juhlat (levynjulkkarit)",
+   "date": "2027-02-27",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/juhlat-levynjulkkarit-6aa9049fb7a25a2b008f64de/",
+   "ticket_url": null
+  },
+  {
    "venue": "semifinal",
    "title": "MOMO",
    "date": "2027-02-27",
@@ -4662,6 +4646,14 @@
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/morgan-jay-la-dolce-vita-tour",
    "ticket_url": null
+  },
+  {
+   "venue": "aaniwalli",
+   "title": "Mikkey Dee with Friends",
+   "date": "2027-03-03",
+   "time": null,
+   "url": "https://www.aaniwalli.fi/events/2027-03-03-mikkey_dee_with_friends",
+   "ticket_url": "https://www.tiketti.fi/tapahtuma/121939"
   },
   {
    "venue": "korjaamo",
@@ -4789,6 +4781,14 @@
    "date": "2027-03-11",
    "time": "17:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/2A8F35FD8CE73DE7A08477114E1A8843/Molly_Hammar_-_Livsvittne",
+   "ticket_url": null
+  },
+  {
+   "venue": "korjaamo",
+   "title": "Noora Louhimo – Inner Goddess Spring Tour 2027 (S/K18)",
+   "date": "2027-03-11",
+   "time": "19:00",
+   "url": "https://korjaamo.fi/event/noora-louhimo-inner-goddess-spring-tour-2027-s-k18/",
    "ticket_url": null
   },
   {
@@ -5197,6 +5197,14 @@
    "date": "2027-08-24",
    "time": "19:25",
    "url": "https://tavastiaklubi.fi/events/2027-08-24/maija-vilkkumaa-pitka-ihana-leikki-28-vuotta/117360/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "2.11. The Chats (AU)",
+   "date": "2027-09-09",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-09-09/the-chats-au/121811/",
    "ticket_url": null
   },
   {
