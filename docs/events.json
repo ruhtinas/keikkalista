@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-01T14:03:00+03:00",
+ "updated": "2026-11-02T15:00:53+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 86,
+   "count": 85,
    "status": "ok"
   },
   "savoy": {
@@ -28,19 +28,19 @@
   "glivelab": {
    "name": "G Livelab Helsinki",
    "url": "https://glivelab.fi/",
-   "count": 35,
+   "count": 36,
    "status": "ok"
   },
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 78,
+   "count": 80,
    "status": "ok"
   },
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 30,
+   "count": 29,
    "status": "ok"
   },
   "korjaamo": {
@@ -94,7 +94,7 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 19,
+   "count": 17,
    "status": "ok"
   },
   "musiikkitalo": {
@@ -111,46 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "aaniwalli",
-   "title": "KORGY HALLOWEEN",
-   "date": "2026-10-31",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2026-10-31-korgy_halloween",
-   "ticket_url": "https://www.eventu.al/en/event/7538"
-  },
-  {
-   "venue": "kulttuuritalo",
-   "title": "YAMATO – The Drummers of Japan 2026",
-   "date": "2026-10-31",
-   "time": null,
-   "url": "https://kulttuuritalo.fi/tapahtuma/yamato-the-drummers-of-japan-2",
-   "ticket_url": null
-  },
-  {
-   "venue": "semifinal",
-   "title": "YOUNGHEARTED",
-   "date": "2026-10-31",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2026-10-31/younghearted/120923/",
-   "ticket_url": null
-  },
-  {
-   "venue": "tiivistamo",
-   "title": "SADE Session (S)",
-   "date": "2026-11-01",
-   "time": "12:00",
-   "url": "https://www.instagram.com/sade_finland/",
-   "ticket_url": null
-  },
-  {
-   "venue": "tiivistamo",
-   "title": "Salsa con Sabor (S)",
-   "date": "2026-11-01",
-   "time": "15:00",
-   "url": "https://www.salsaborealis.fi/",
-   "ticket_url": null
-  },
   {
    "venue": "savoy",
    "title": "Aynur (TUR/KRD): Rabe – Etnosoi! Festival",
@@ -723,7 +683,7 @@
    "venue": "tavastia",
    "title": "Yasuaki Shimizu (JP)",
    "date": "2026-11-08",
-   "time": null,
+   "time": "11:00",
    "url": "https://tavastiaklubi.fi/events/2026-11-08/yasuaki-shimizu-jp/118573/",
    "ticket_url": null
   },
@@ -859,7 +819,7 @@
    "venue": "semifinal",
    "title": "Joka v*tun keskiviikko: Yllätysesiintyjä",
    "date": "2026-11-11",
-   "time": "19:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2026-11-11/joka-vtun-keskiviikko-yllatysesiintyja/121629/",
    "ticket_url": null
   },
@@ -1259,7 +1219,7 @@
    "venue": "tavastia",
    "title": "Battle Beast",
    "date": "2026-11-14",
-   "time": null,
+   "time": "11:00",
    "url": "https://tavastiaklubi.fi/events/2026-11-14/battle-beast/119778/",
    "ticket_url": null
   },
@@ -2443,7 +2403,7 @@
    "venue": "glivelab",
    "title": "Väreet 2026: Goran Kajfeš Subtropic Arkestra & Avin Omar (SE) + divr (CH)",
    "date": "2026-12-02",
-   "time": "19:00",
+   "time": "19:15",
    "url": "https://glivelab.fi/events/vareet-2026-goran-kajfes-subtropic-arkestra-avin-o-6ab0e575df3edfdd052d2915/",
    "ticket_url": null
   },
@@ -2579,7 +2539,7 @@
    "venue": "tavastia",
    "title": "Blues Pills & Graveyard Tour 2026",
    "date": "2026-12-05",
-   "time": null,
+   "time": "17:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-05/blues-pills-graveyard-tour-2026/118975/",
    "ticket_url": null
   },
@@ -3424,6 +3384,14 @@
    "ticket_url": null
   },
   {
+   "venue": "aaniwalli",
+   "title": "Punainen joulu: F, Tuula Amberla, Paleface",
+   "date": "2026-12-19",
+   "time": null,
+   "url": "https://www.aaniwalli.fi/events/2026-12-19-punainen_joulu_f_tuula_amberla_paleface",
+   "ticket_url": "https://www.tiketti.fi/punainen-joulu-aaniwalli-helsinki-lippuja/121979"
+  },
+  {
    "venue": "korjaamo",
    "title": "Päiväkirjaklubi",
    "date": "2026-12-19",
@@ -3872,6 +3840,14 @@
    "ticket_url": null
   },
   {
+   "venue": "glivelab",
+   "title": "Markku Kanerva: Bright White Light (levynjulkkarit)",
+   "date": "2027-01-28",
+   "time": "19:00",
+   "url": "https://glivelab.fi/events/markku-kanerva-bright-white-light-levynjulkkarit-6adf12a6ad633bb0ea46d8af/",
+   "ticket_url": null
+  },
+  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: SARA PARKMAN (SE)",
    "date": "2027-01-29",
@@ -4232,6 +4208,14 @@
    "ticket_url": "https://www.tiketti.fi/tapahtuma/120423"
   },
   {
+   "venue": "tavastia",
+   "title": "4.11. Dynazty (SWE)",
+   "date": "2027-02-24",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-02-24/dynazty-swe/121969/",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "Lee Rocker of the Stray Cats",
    "date": "2027-02-24",
@@ -4291,7 +4275,7 @@
    "venue": "semifinal",
    "title": "MOMO",
    "date": "2027-02-27",
-   "time": "19:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-02-27/momo/121407/",
    "ticket_url": null
   },
@@ -4321,9 +4305,9 @@
   },
   {
    "venue": "tavastia",
-   "title": "29.10. Jacob Banks (UK)",
+   "title": "Jacob Banks (UK)",
    "date": "2027-03-01",
-   "time": null,
+   "time": "11:00",
    "url": "https://tavastiaklubi.fi/events/2027-03-01/jacob-banks-uk/121708/",
    "ticket_url": null
   },
@@ -4424,6 +4408,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "26.10. Vesterinen Yhtyeineen: Paluu Tavastialle",
+   "date": "2027-03-06",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-03-06/vesterinen-yhtyeineen-paluu-tavastialle/121808/",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "Lionel Loueke Solo – Savoy JAZZFest 2027",
    "date": "2027-03-06",
@@ -4437,14 +4429,6 @@
    "date": "2027-03-06",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/saxon",
-   "ticket_url": null
-  },
-  {
-   "venue": "tavastia",
-   "title": "Vesterinen Yhtyeineen: Paluu Tavastialle",
-   "date": "2027-03-06",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-03-06/vesterinen-yhtyeineen-paluu-tavastialle/121808/",
    "ticket_url": null
   },
   {
@@ -4669,6 +4653,14 @@
    "date": "2027-03-24",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/eivor",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "2.11. Pesso (Levyjulkkarit)",
+   "date": "2027-03-25",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-03-25/pesso-levyjulkkarit/121028/",
    "ticket_url": null
   },
   {
@@ -4971,7 +4963,7 @@
    "venue": "tavastia",
    "title": "The Pineapple Thief (UK)",
    "date": "2027-06-01",
-   "time": null,
+   "time": "11:00",
    "url": "https://tavastiaklubi.fi/events/2027-06-01/the-pineapple-thief-uk/120777/",
    "ticket_url": null
   },
@@ -4993,9 +4985,9 @@
   },
   {
    "venue": "tavastia",
-   "title": "2.11. The Chats (AU)",
+   "title": "LIPUT MYYNNISSÄ",
    "date": "2027-09-09",
-   "time": null,
+   "time": "11:00",
    "url": "https://tavastiaklubi.fi/events/2027-09-09/the-chats-au/121811/",
    "ticket_url": null
   },
@@ -5004,7 +4996,7 @@
    "title": "REAPER FEST 2027",
    "date": "2027-09-17",
    "time": "17:30",
-   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119662/",
+   "url": "https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119664/",
    "ticket_url": null
   },
   {
