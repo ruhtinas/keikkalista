@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:38:59+03:00",
+ "updated": "2026-11-04T14:52:57+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
@@ -10,13 +10,13 @@
   "savoy": {
    "name": "Savoy-teatteri",
    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
-   "count": 70,
+   "count": 71,
    "status": "ok"
   },
   "kuudeslinja": {
    "name": "Kuudes Linja",
    "url": "https://kuudeslinja.com/",
-   "count": 26,
+   "count": 32,
    "status": "ok"
   },
   "aaniwalli": {
@@ -82,7 +82,7 @@
   "olarinpanimo": {
    "name": "Olarin Panimo Helsinki",
    "url": "https://olarinpanimo.fi/tapahtumat/",
-   "count": 15,
+   "count": 16,
    "status": "ok"
   },
   "allas": {
@@ -111,30 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "lepakkomies",
-   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
-   "date": "2026-11-03",
-   "time": "18:00",
-   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode/",
-   "ticket_url": null
-  },
-  {
-   "venue": "barloose",
-   "title": "PJK Klubi: Reippaat ja Lahjakkaat Nuorisojulkkikset, Funk The Police, Yes, And? plays Ariana Grande",
-   "date": "2026-11-03",
-   "time": "19:30",
-   "url": "https://barloose.com/live/pjk-klubi-reippaat-ja-lahjakkaat-nuorisojulkkikset-funk-the-police-yes-and-plays-ariana-grande/",
-   "ticket_url": null
-  },
-  {
-   "venue": "korjaamo",
-   "title": "SOLD OUT: 333kollektiivi: HÄÄT(Ö)",
-   "date": "2026-11-03",
-   "time": "19:30",
-   "url": "https://korjaamo.fi/event/333kollektiivi-haato/",
-   "ticket_url": null
-  },
   {
    "venue": "glivelab",
    "title": "Arkai (US)",
@@ -217,7 +193,7 @@
   },
   {
    "venue": "tiivistamo",
-   "title": "Spotlight - Open mic nights",
+   "title": "Spotlight - Open mic nights (S)",
    "date": "2026-11-04",
    "time": "15:30",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqoz44wne",
@@ -235,7 +211,7 @@
    "venue": "kuudeslinja",
    "title": "ESTER NUORI LEPPÄ & HERKKIEN ARMEIJA + AATOS KETVEL",
    "date": "2026-11-05",
-   "time": "19:00",
+   "time": "21:00",
    "url": "https://www.tiketti.fi/ester-nuori-leppa-herkkien-armeija-aatos-ketvel-kuudes-lippuja/121345",
    "ticket_url": "https://www.tiketti.fi/ester-nuori-leppa-herkkien-armeija-aatos-ketvel-kuudes-lippuja/121345"
   },
@@ -323,7 +299,7 @@
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: MODEM – MODEMISM-JULKKARIT + SOKAR + WALDEMAR BLOM",
    "date": "2026-11-06",
-   "time": "19:00",
+   "time": "21:30",
    "url": "https://www.tiketti.fi/tapahtuma/118557",
    "ticket_url": "https://www.tiketti.fi/tapahtuma/118557"
   },
@@ -481,9 +457,9 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: RATS WILL FEAST + KANNABINOID + TBA",
+   "title": "ALKUILLAN KONSERTTI: RATS WILL FEAST + KANNABINÕID (EE) + ESTONER (EE)",
    "date": "2026-11-07",
-   "time": "19:00",
+   "time": "21:30",
    "url": "https://www.tiketti.fi/rats-will-feast-kannabinoid-ee-kuudes-linja-helsinki-lippuja/121122",
    "ticket_url": "https://www.tiketti.fi/rats-will-feast-kannabinoid-ee-kuudes-linja-helsinki-lippuja/121122"
   },
@@ -1001,6 +977,14 @@
   },
   {
    "venue": "kuudeslinja",
+   "title": "4WAY",
+   "date": "2026-11-13",
+   "time": "23:15",
+   "url": "https://www.eventu.al/en/event/10358/finland/helsinki/4way",
+   "ticket_url": "https://www.eventu.al/en/event/10358/finland/helsinki/4way"
+  },
+  {
+   "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: BÄMÄ – BÄMÄVERSUMI-LEVYJULKKARIT",
    "date": "2026-11-13",
    "time": "19:00",
@@ -1488,6 +1472,14 @@
    "ticket_url": "https://www.tiketti.fi/tapahtuma/121024"
   },
   {
+   "venue": "barloose",
+   "title": "Pegasos, Jutta Rahmel (levynjulkkarit), Saarisalo (soolo)",
+   "date": "2026-11-18",
+   "time": "19:30",
+   "url": "https://barloose.com/live/pegasos-jutta-rahmel-levynjulkkarit-saarisalo-soolo/",
+   "ticket_url": null
+  },
+  {
    "venue": "musiikkitalo",
    "title": "RSO: Turun filharmonisen orkesterin vierailukonsertti",
    "date": "2026-11-18",
@@ -1616,6 +1608,14 @@
    "ticket_url": "https://www.tiketti.fi/gigi-masin-ita-kuudes-linja-helsinki-lippuja/119752"
   },
   {
+   "venue": "kuudeslinja",
+   "title": "BASHMENT YARD (SPECIAL SHOWCASE NIGHT – LION HEAD SOUND MEETS KOMPOSTI SOUND)",
+   "date": "2026-11-20",
+   "time": "23:45",
+   "url": "https://www.eventu.al/en/event/9343/finland/helsinki/bashment-yard-special-showcase-night",
+   "ticket_url": "https://www.eventu.al/en/event/9343/finland/helsinki/bashment-yard-special-showcase-night"
+  },
+  {
    "venue": "ontherocks",
    "title": "Discomania! Midnight City Club DJs Mikke The Flamer & John Curtain",
    "date": "2026-11-20",
@@ -1718,6 +1718,14 @@
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-04-13-archspire_ca__supports_crown_magnetar_the_zenith_passage_analepsy",
    "ticket_url": "https://www.tiketti.fi/tapahtuma/117416"
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "HOT GIRL CLUB",
+   "date": "2026-11-21",
+   "time": "23:15",
+   "url": "https://www.eventu.al/en/event/9340/finland/helsinki/hot-girl-club",
+   "ticket_url": "https://www.eventu.al/en/event/9340/finland/helsinki/hot-girl-club"
   },
   {
    "venue": "kulttuuritalo",
@@ -1886,6 +1894,14 @@
    "time": "17:00",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/soiva-urkuesittely-23-11-2026",
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/16034/22868/"
+  },
+  {
+   "venue": "lepakkomies",
+   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
+   "date": "2026-11-24",
+   "time": "18:00",
+   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode-4/",
+   "ticket_url": null
   },
   {
    "venue": "savoy",
@@ -2205,6 +2221,14 @@
    "date": "2026-11-28",
    "time": "20:00",
    "url": "https://tavastiaklubi.fi/events/2026-11-28/kemmuru-kehumatta-paras-20-vuotta/120342/",
+   "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "LADI",
+   "date": "2026-11-28",
+   "time": "23:30",
+   "url": "https://kuudeslinja.com/",
    "ticket_url": null
   },
   {
@@ -2641,10 +2665,18 @@
   },
   {
    "venue": "tiivistamo",
-   "title": "Spotlight - Open mic nights",
+   "title": "Spotlight - Open mic nights (S)",
    "date": "2026-12-09",
    "time": "15:30",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqoz5gp5m",
+   "ticket_url": null
+  },
+  {
+   "venue": "olarinpanimo",
+   "title": "Aivolävistys, Teresa Banks, Tackle (DK)",
+   "date": "2026-12-10",
+   "time": "20:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/aivolavistys-teresa-banks-tackle-dk/",
    "ticket_url": null
   },
   {
@@ -3496,19 +3528,19 @@
    "ticket_url": null
   },
   {
-   "venue": "semifinal",
-   "title": "20.10. Kaikkeus, Vaasa Palaa",
-   "date": "2027-01-02",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-01-02/kaikkeus-vaasa-palaa/121615/",
-   "ticket_url": null
-  },
-  {
    "venue": "tavastia",
    "title": "27.10. Red Eleven plays Faith No More feat. Ville Tuomi",
    "date": "2027-01-02",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-01-02/red-eleven-plays-faith-no-more-feat-ville-tuomi/121820/",
+   "ticket_url": null
+  },
+  {
+   "venue": "semifinal",
+   "title": "Kaikkeus, Vaasa Palaa",
+   "date": "2027-01-02",
+   "time": "19:00",
+   "url": "https://tavastiaklubi.fi/events/2027-01-02/kaikkeus-vaasa-palaa/121615/",
    "ticket_url": null
   },
   {
@@ -3648,6 +3680,14 @@
    "ticket_url": null
   },
   {
+   "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: TAMARA LUONTO 10 V-JUHLAT + JONI EKMAN GROUP + ALBERT",
+   "date": "2027-01-15",
+   "time": "19:00",
+   "url": "https://www.tiketti.fi/tamara-luonto-joni-ekman-group-albert-kuudes-linja-helsinki-lippuja/122065",
+   "ticket_url": "https://www.tiketti.fi/tamara-luonto-joni-ekman-group-albert-kuudes-linja-helsinki-lippuja/122065"
+  },
+  {
    "venue": "kulttuuritalo",
    "title": "KULT: Fear of Domination + Despiser",
    "date": "2027-01-15",
@@ -3728,6 +3768,14 @@
    "ticket_url": null
   },
   {
+   "venue": "aaniwalli",
+   "title": "Motivus x Ääniwalli",
+   "date": "2027-01-21",
+   "time": null,
+   "url": "https://www.aaniwalli.fi/events/2027-01-26-motivus_x_niwalli",
+   "ticket_url": "https://www.motivus.fi/palvelut/motivus-aaniwalli"
+  },
+  {
    "venue": "glivelab",
    "title": "Oiro Pena",
    "date": "2027-01-21",
@@ -3800,14 +3848,6 @@
    "ticket_url": null
   },
   {
-   "venue": "aaniwalli",
-   "title": "Motivus x Ääniwalli",
-   "date": "2027-01-26",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2027-01-26-motivus_x_niwalli",
-   "ticket_url": "https://www.motivus.fi/palvelut/motivus-aaniwalli"
-  },
-  {
    "venue": "savoy",
    "title": "Chris Kläfford – The Kitchen Session Tour",
    "date": "2027-01-27",
@@ -3816,11 +3856,11 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "Kiitos Katri Helena",
+   "venue": "korjaamo",
+   "title": "Sätilä, Tummapilvi",
    "date": "2027-01-27",
-   "time": "20:00",
-   "url": "https://tavastiaklubi.fi/events/2027-01-27/kiitos-katri-helena/117383/",
+   "time": "19:30",
+   "url": "https://korjaamo.fi/event/satila-tummapilvi/",
    "ticket_url": null
   },
   {
@@ -3878,6 +3918,14 @@
    "time": "20:00",
    "url": "https://tavastiaklubi.fi/events/2027-01-29/sara/120427/",
    "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: PYRY LAAKSO + IRA",
+   "date": "2027-01-30",
+   "time": "19:00",
+   "url": "https://www.tiketti.fi/pyry-laakso-ira-kuudes-linja-helsinki-lippuja/122066",
+   "ticket_url": "https://www.tiketti.fi/pyry-laakso-ira-kuudes-linja-helsinki-lippuja/122066"
   },
   {
    "venue": "korjaamo",
@@ -4013,6 +4061,14 @@
    "date": "2027-02-10",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/baby-lasagna-2",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Kiitos Katri Helena",
+   "date": "2027-02-10",
+   "time": "20:00",
+   "url": "https://tavastiaklubi.fi/events/2027-02-10/kiitos-katri-helena/117383/",
    "ticket_url": null
   },
   {
@@ -4193,9 +4249,9 @@
   },
   {
    "venue": "tavastia",
-   "title": "LIPUT MYYNNISSÄ",
+   "title": "Dynazty (SWE)",
    "date": "2027-02-24",
-   "time": "09:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-02-24/dynazty-swe/121969/",
    "ticket_url": null
   },
@@ -4283,7 +4339,7 @@
    "venue": "tavastia",
    "title": "Jacob Banks (UK)",
    "date": "2027-03-01",
-   "time": "09:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-03-01/jacob-banks-uk/121708/",
    "ticket_url": null
   },
@@ -4549,7 +4605,7 @@
    "date": "2027-03-16",
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-10-20-oskar_med_k_no",
-   "ticket_url": null
+   "ticket_url": "https://www.ticketmaster.fi/event/oskar-med-k-lippuja/835563262"
   },
   {
    "venue": "savoy",
@@ -4643,7 +4699,7 @@
    "venue": "tavastia",
    "title": "Saul Williams (USA)",
    "date": "2027-03-29",
-   "time": "09:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-03-29/saul-williams-usa/120779/",
    "ticket_url": null
   },
@@ -4693,6 +4749,14 @@
    "date": "2027-04-08",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/kult-sir-elwood-duo-voitto-auringolle-2027",
+   "ticket_url": null
+  },
+  {
+   "venue": "savoy",
+   "title": "Stepa & UMO Helsinki Jazz Orchestra",
+   "date": "2027-04-14",
+   "time": "16:00",
+   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/61915FC90388894D216F17F7ECF85875/Stepa_UMO_Helsinki_Jazz_Orchestra",
    "ticket_url": null
   },
   {
@@ -4939,7 +5003,7 @@
    "venue": "tavastia",
    "title": "The Pineapple Thief (UK)",
    "date": "2027-06-01",
-   "time": "09:00",
+   "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-06-01/the-pineapple-thief-uk/120777/",
    "ticket_url": null
   },
