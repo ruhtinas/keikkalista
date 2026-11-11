@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T15:09:20+03:00",
+ "updated": "2026-11-11T14:42:10+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 80,
+   "count": 82,
    "status": "ok"
   },
   "savoy": {
@@ -22,13 +22,13 @@
   "aaniwalli": {
    "name": "Ääniwalli",
    "url": "https://www.aaniwalli.fi/",
-   "count": 24,
+   "count": 25,
    "status": "ok"
   },
   "glivelab": {
    "name": "G Livelab Helsinki",
    "url": "https://glivelab.fi/",
-   "count": 49,
+   "count": 48,
    "status": "ok"
   },
   "tavastia": {
@@ -40,7 +40,7 @@
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 25,
+   "count": 24,
    "status": "ok"
   },
   "korjaamo": {
@@ -70,7 +70,7 @@
   "jaahalli": {
    "name": "Helsingin Jäähalli",
    "url": "https://helsinginjaahalli.fi/tapahtumat",
-   "count": 21,
+   "count": 22,
    "status": "ok"
   },
   "barloose": {
@@ -100,7 +100,7 @@
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 113,
+   "count": 112,
    "status": "ok"
   },
   "vernissa": {
@@ -111,54 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "lepakkomies",
-   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
-   "date": "2026-11-10",
-   "time": "18:00",
-   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode/",
-   "ticket_url": null
-  },
-  {
-   "venue": "semifinal",
-   "title": "Kuudesta Kymmeneen",
-   "date": "2026-11-10",
-   "time": "19:00",
-   "url": "https://tavastiaklubi.fi/events/2026-11-10/kuudesta-kymmeneen/120769/",
-   "ticket_url": null
-  },
-  {
-   "venue": "glivelab",
-   "title": "Music Talsinki: Flow Rea + RETI",
-   "date": "2026-11-10",
-   "time": "19:00",
-   "url": "https://glivelab.fi/events/music-talsinki-flow-rea-reti-6ab4c905efb1c46ed5cac0e3/",
-   "ticket_url": null
-  },
-  {
-   "venue": "olarinpanimo",
-   "title": "Official Night Visions Warm Up & Beer Launch",
-   "date": "2026-11-10",
-   "time": "17:00",
-   "url": "https://olarinpanimo.fi/tapahtuma/official-night-visions-warm-up-beer-launch/",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Siban kahvikonsertti Musiikkitalossa: Inka Österberg & Zibin Hänninen, Valtteri Tolppi & Harriet Tulokas",
-   "date": "2026-11-10",
-   "time": "14:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/siban-kahvikonsertti-musiikkitalossa-inka-osterberg-zibin-hanninen-valtteri-tolppi-harriet-tulokas-10-11-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "tavastia",
-   "title": "Xzibit (USA)",
-   "date": "2026-11-10",
-   "time": "20:30",
-   "url": "https://tavastiaklubi.fi/events/2026-11-10/xzibit-usa/118938/",
-   "ticket_url": null
-  },
   {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: MAYOHK (JP)",
@@ -563,7 +515,7 @@
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: MONOPOLI MUSIC LIVE – ADI L HASLA, ROOMEO & BAHAMO",
    "date": "2026-11-14",
-   "time": "19:00",
+   "time": "21:30",
    "url": "https://www.tiketti.fi/adi-l-hasla-roomeo-bahamo-kuudes-linja-helsinki-lippuja/121606",
    "ticket_url": "https://www.tiketti.fi/adi-l-hasla-roomeo-bahamo-kuudes-linja-helsinki-lippuja/121606"
   },
@@ -637,7 +589,7 @@
    "date": "2026-11-14",
    "time": "13:00",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/musiikkitalon-backstage-passi-14-11-2026",
-   "ticket_url": null
+   "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/16227/23942/"
   },
   {
    "venue": "aaniwalli",
@@ -705,7 +657,7 @@
   },
   {
    "venue": "tiivistamo",
-   "title": "Usagicon (K13)",
+   "title": "Usagicon (S)",
    "date": "2026-11-14",
    "time": "10:00",
    "url": "https://www.instagram.com/usagi.con/",
@@ -1116,7 +1068,7 @@
    "title": "Sibis Jazz Ensemble – Jukkis Uotila",
    "date": "2026-11-20",
    "time": "19:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/sibis-jazz-ensemble-jukkis-uotila-20-11-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/sibis-jazz-ensemble-jukkis-uotila-20-11-2026",
    "ticket_url": null
   },
   {
@@ -1166,6 +1118,14 @@
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2026-04-13-archspire_ca__supports_crown_magnetar_the_zenith_passage_analepsy",
    "ticket_url": "https://www.tiketti.fi/tapahtuma/117416"
+  },
+  {
+   "venue": "jaahalli",
+   "title": "Finlandia Trophy Helsinki 20.–21.11.2026",
+   "date": "2026-11-21",
+   "time": null,
+   "url": "https://helsinginjaahalli.fi/events/finlandia-trophy-helsinki-20-21-11-2026",
+   "ticket_url": null
   },
   {
    "venue": "kuudeslinja",
@@ -1696,6 +1656,14 @@
    "ticket_url": "https://www.tiketti.fi/tapahtuma/120892"
   },
   {
+   "venue": "olarinpanimo",
+   "title": "Cats of Transnistria, Pink Chameleons & Cave Moss",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "url": "https://olarinpanimo.fi/tapahtuma/cats-of-transnistria-pink-chameleons-cave-moss/",
+   "ticket_url": null
+  },
+  {
    "venue": "kulttuuritalo",
    "title": "Disco Night",
    "date": "2026-11-28",
@@ -1737,10 +1705,10 @@
   },
   {
    "venue": "lepakkomies",
-   "title": "LEPISKELMÄ",
+   "title": "LEPISKELMÄ-KLUBIN AVAJAISET",
    "date": "2026-11-28",
    "time": "00:00",
-   "url": "https://www.lepis.fi/tapahtumat/lepiskelma/",
+   "url": "https://www.lepis.fi/tapahtumat/lepiskelma-klubin-avajaiset/",
    "ticket_url": null
   },
   {
@@ -1857,26 +1825,26 @@
   },
   {
    "venue": "musiikkitalo",
-   "title": "Mus!!Kk!A: Kamun kanssa taipaleella",
+   "title": "MUs!!Kk!A: Kamun kanssa taipaleella",
    "date": "2026-11-30",
    "time": "18:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/muskka-kamun-kanssa-taipaleella-30-11-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/muskka-kamun-kanssa-taipaleella-30-11-2026",
    "ticket_url": null
   },
   {
    "venue": "musiikkitalo",
-   "title": "Mus!!Kk!A: Rymyrumpurämä",
+   "title": "MUs!!Kk!A: Rymyrumpurämä",
    "date": "2026-11-30",
    "time": "14:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/muskka-rymyrumpurama-30-11-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/muskka-rymyrumpurama-30-11-2026",
    "ticket_url": null
   },
   {
    "venue": "musiikkitalo",
-   "title": "Mus!!Kk!A: Tuukka Uusitalo",
+   "title": "MUs!!Kk!A: Tuukka Uusitalo",
    "date": "2026-11-30",
    "time": "19:30",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/muskka-tuukka-uusitalo-30-11-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/muskka-tuukka-uusitalo-30-11-2026",
    "ticket_url": null
   },
   {
@@ -2056,6 +2024,14 @@
    "ticket_url": null
   },
   {
+   "venue": "lepakkomies",
+   "title": "Rearviewmirror – A Tribute to Pearl Jam",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "url": "https://www.lepis.fi/tapahtumat/rearviewmirror-a-tribute-to-pearl-jam/",
+   "ticket_url": "https://www.tiketti.fi/rearviewmirror-a-tribute-to-pearl-jam-lepakkomies-helsinki-lippuja/121669"
+  },
+  {
    "venue": "tiivistamo",
    "title": "Sonia, Leyla (S/K18)",
    "date": "2026-12-04",
@@ -2094,6 +2070,14 @@
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/fcf-wrestling-showpainia-5-12-2026",
    "ticket_url": null
+  },
+  {
+   "venue": "aaniwalli",
+   "title": "PAHA VAANII",
+   "date": "2026-12-05",
+   "time": null,
+   "url": "https://www.aaniwalli.fi/events/2026-12-05-paha_vaanii",
+   "ticket_url": "https://www.eventu.al/en/event/9014/"
   },
   {
    "venue": "glivelab",
@@ -2179,7 +2163,7 @@
    "venue": "tiivistamo",
    "title": "Spotlight - Open mic nights (S)",
    "date": "2026-12-09",
-   "time": "15:30",
+   "time": "16:30",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agqoz5gp5m",
    "ticket_url": null
   },
@@ -3000,14 +2984,6 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "27.10. Red Eleven plays Faith No More feat. Ville Tuomi",
-   "date": "2027-01-02",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-01-02/red-eleven-plays-faith-no-more-feat-ville-tuomi/121820/",
-   "ticket_url": null
-  },
-  {
    "venue": "jaahalli",
    "title": "HIFK - Tappara Klo 16:00",
    "date": "2027-01-02",
@@ -3021,6 +2997,14 @@
    "date": "2027-01-02",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-01-02/kaikkeus-vaasa-palaa/121615/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Red Eleven plays Faith No More feat. Ville Tuomi",
+   "date": "2027-01-02",
+   "time": "20:30",
+   "url": "https://tavastiaklubi.fi/events/2027-01-02/red-eleven-plays-faith-no-more-feat-ville-tuomi/121820/",
    "ticket_url": null
   },
   {
@@ -3168,14 +3152,6 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "27.10. Timo Kämäräinen",
-   "date": "2027-01-15",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-01-15/timo-kamarainen/121924/",
-   "ticket_url": null
-  },
-  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: TAMARA LUONTO 10 V-JUHLAT + JONI EKMAN GROUP + ALBERT",
    "date": "2027-01-15",
@@ -3197,6 +3173,14 @@
    "date": "2027-01-15",
    "time": "20:00",
    "url": "https://glivelab.fi/events/marjo-leinonen-bublicans-levynjulkkarit-6aa902e6b7a25a2b008f3c9f/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Timo Kämäräinen",
+   "date": "2027-01-15",
+   "time": "20:30",
+   "url": "https://tavastiaklubi.fi/events/2027-01-15/timo-kamarainen/121924/",
    "ticket_url": null
   },
   {
@@ -3440,6 +3424,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "10.11. Reilukerho 20-vuotisjuhlakeikka",
+   "date": "2027-01-30",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-01-30/reilukerho-20-vuotisjuhlakeikka/122222/",
+   "ticket_url": null
+  },
+  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: PYRY LAAKSO + IRA",
    "date": "2027-01-30",
@@ -3461,14 +3453,6 @@
    "date": "2027-01-30",
    "time": "13:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/92F668285389CB951B7F21453AF30C93/Maagikot_6_The_Art_of_Illusion",
-   "ticket_url": null
-  },
-  {
-   "venue": "tavastia",
-   "title": "Reilukerho 20-vuotisjuhlakeikka",
-   "date": "2027-01-30",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-01-30/reilukerho-20-vuotisjuhlakeikka/122222/",
    "ticket_url": null
   },
   {
@@ -3669,6 +3653,14 @@
    "date": "2027-02-13",
    "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-02-13/catch-your-breath-usa/118623/",
+   "ticket_url": null
+  },
+  {
+   "venue": "kulttuuritalo",
+   "title": "Iconic Voices of Enigma Live Show",
+   "date": "2027-02-13",
+   "time": null,
+   "url": "https://kulttuuritalo.fi/tapahtuma/iconic-voices-of-enigma-live-show",
    "ticket_url": null
   },
   {
@@ -4217,6 +4209,22 @@
   },
   {
    "venue": "tavastia",
+   "title": "11.11. Mouhous",
+   "date": "2027-03-26",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-03-26/mouhous/122186/",
+   "ticket_url": null
+  },
+  {
+   "venue": "kulttuuritalo",
+   "title": "KULT: Knipi",
+   "date": "2027-03-27",
+   "time": null,
+   "url": "https://kulttuuritalo.fi/tapahtuma/kult-knipi",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
    "title": "Saul Williams (USA)",
    "date": "2027-03-29",
    "time": null,
@@ -4617,7 +4625,7 @@
   },
   {
    "venue": "tavastia",
-   "title": "10.11. Wolf Parade (CAN)",
+   "title": "Wolf Parade (CAN)",
    "date": "2027-06-12",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-06-12/wolf-parade-can/122299/",
