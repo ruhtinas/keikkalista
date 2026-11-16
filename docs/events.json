@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-15T14:47:02+03:00",
+ "updated": "2026-11-16T15:27:45+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
    "url": "https://kulttuuritalo.fi/tapahtumat/",
-   "count": 82,
+   "count": 80,
    "status": "ok"
   },
   "savoy": {
    "name": "Savoy-teatteri",
    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
-   "count": 67,
+   "count": 66,
    "status": "ok"
   },
   "kuudeslinja": {
@@ -34,7 +34,7 @@
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 79,
+   "count": 80,
    "status": "ok"
   },
   "semifinal": {
@@ -94,13 +94,13 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 14,
+   "count": 13,
    "status": "ok"
   },
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 96,
+   "count": 95,
    "status": "ok"
   },
   "vernissa": {
@@ -113,74 +113,10 @@
  "events": [
   {
    "venue": "kulttuuritalo",
-   "title": "KULT: The Comedy Store (UK) 14.11.2026",
-   "date": "2026-11-14",
-   "time": null,
-   "url": "https://kulttuuritalo.fi/tapahtuma/the-comedy-store-14-11-2026-uk",
-   "ticket_url": null
-  },
-  {
-   "venue": "aaniwalli",
-   "title": "NERVY",
-   "date": "2026-11-14",
-   "time": null,
-   "url": "https://www.aaniwalli.fi/events/2026-11-14-nervy",
-   "ticket_url": "https://ticketshop.store/en/events/107102"
-  },
-  {
-   "venue": "kulttuuritalo",
-   "title": "Ursus Factory – Iso ilta Kultsalla",
-   "date": "2026-11-14",
-   "time": null,
-   "url": "https://kulttuuritalo.fi/tapahtuma/ursus-factory-iso-ilta-kultsalla",
-   "ticket_url": null
-  },
-  {
-   "venue": "kuudeslinja",
-   "title": "AFRO SUNDAY",
-   "date": "2026-11-15",
-   "time": "04:30",
-   "url": "https://kide.app/events/fcae6b9a-2e42-42fa-90ff-10a60e76fe2e",
-   "ticket_url": "https://kide.app/events/fcae6b9a-2e42-42fa-90ff-10a60e76fe2e"
-  },
-  {
-   "venue": "ontherocks",
-   "title": "Afu-Ra (USA), Loasteeze",
-   "date": "2026-11-15",
-   "time": "19:00",
-   "url": "https://www.rocks.fi/tapahtumat/afu-ra-usa-loasteeze/",
-   "ticket_url": "https://www.tiketti.fi/tapahtuma/121592"
-  },
-  {
-   "venue": "tiivistamo",
-   "title": "Helsinki Event School Evenings (S)",
-   "date": "2026-11-15",
-   "time": "13:30",
-   "url": "https://tapahtumat.hel.fi/event/helsinki:agqt7f32lu",
-   "ticket_url": null
-  },
-  {
-   "venue": "kulttuuritalo",
    "title": "Herrasmiehet lavalla",
    "date": "2026-11-15",
    "time": null,
    "url": "https://kulttuuritalo.fi/tapahtuma/herrasmiehet-lavalla",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Improa, svengiä, gospelia: Wayne Marshall & Lahden Gospelkuoro",
-   "date": "2026-11-15",
-   "time": "18:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/improa-svengia-gospelia-wayne-marshall-lahden-gospelkuoro-15-11-2026",
-   "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15658/21676/"
-  },
-  {
-   "venue": "savoy",
-   "title": "Lapsuuden sankarit: Miljoonasade 40 vuotta – Loppuunmyyty! / Sold out!",
-   "date": "2026-11-15",
-   "time": "13:00",
-   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/AF4CC08FE452713765869FF18D5379DC/Lapsuuden_sankarit_Miljoonasade_40_vuotta",
    "ticket_url": null
   },
   {
@@ -200,12 +136,12 @@
    "ticket_url": null
   },
   {
-   "venue": "kuudeslinja",
-   "title": "DRUHA RIKA (UA) – I AM! 30 YEARS",
+   "venue": "aaniwalli",
+   "title": "Druha Rika (UA)",
    "date": "2026-11-17",
-   "time": "19:00",
-   "url": "https://tickets.tikhonov-concert.com/checkout-service/schema?productId=94&l=ua",
-   "ticket_url": "https://tickets.tikhonov-concert.com/checkout-service/schema?productId=94&l=ua"
+   "time": null,
+   "url": "https://www.aaniwalli.fi/events/2026-11-17-druha_rika_ua",
+   "ticket_url": "https://tickets.tikhonov-concert.com/events/druha-rika-helsinki"
   },
   {
    "venue": "lepakkomies",
@@ -238,6 +174,14 @@
    "time": "19:00",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/kaartin-soittokunta-juhlamarssi-isanmaalle-17-11-2026",
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15957/22692/"
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "MOVED TO ÄÄNIWALLI: DRUHA RIKA (UA) – I AM! 30 YEARS",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://tickets.tikhonov-concert.com/checkout-service/schema?productId=94&l=ua",
+   "ticket_url": "https://tickets.tikhonov-concert.com/checkout-service/schema?productId=94&l=ua"
   },
   {
    "venue": "musiikkitalo",
@@ -1011,7 +955,7 @@
    "venue": "semifinal",
    "title": "Röge",
    "date": "2026-11-26",
-   "time": null,
+   "time": "19:00",
    "url": "https://tavastiaklubi.fi/events/2026-11-26/roge/121193/",
    "ticket_url": null
   },
@@ -1542,6 +1486,14 @@
    "time": "18:00",
    "url": "https://www.tiketti.fi/vacuous-uk-dome-runner-throat-sisar-kuudes-linja-helsinki-lippuja/121140",
    "ticket_url": "https://www.tiketti.fi/vacuous-uk-dome-runner-throat-sisar-kuudes-linja-helsinki-lippuja/121140"
+  },
+  {
+   "venue": "ontherocks",
+   "title": "ALLT (SWE), Avralize (GER), Bite Down (SWE)",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "url": "https://www.rocks.fi/tapahtumat/allt-swe-avralize-ger-bite-down-swe/",
+   "ticket_url": null
   },
   {
    "venue": "olarinpanimo",
@@ -2625,7 +2577,7 @@
   },
   {
    "venue": "semifinal",
-   "title": "JAMMA JAMMA",
+   "title": "Kaikkeus, Vaasa Palaa",
    "date": "2027-01-02",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-01-02/kaikkeus-vaasa-palaa/121615/",
@@ -2827,8 +2779,8 @@
    "venue": "savoy",
    "title": "helmi marleena: keväällä kerran",
    "date": "2027-01-15",
-   "time": "18:00",
-   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/26012CC9348C7B6707566C7D014532E0/helmi_marleena_kevaalla_kerran",
+   "time": "15:00",
+   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/BDBCE1522E3BE6FEF88F85630907DE2D/helmi_marleena_kevaalla_kerran",
    "ticket_url": null
   },
   {
@@ -2966,6 +2918,14 @@
    "time": "19:30",
    "url": "https://tavastiaklubi.fi/events/2027-01-22/tuomo-my-thing-20th-anniversary/120768/",
    "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: SPIRITUS MORTIS 40 V & LEVYJULKKARIT + CARDINALS FOLLY + MOUNT PALATINE + CASKETS OPEN",
+   "date": "2027-01-23",
+   "time": "18:00",
+   "url": "https://www.tiketti.fi/spiritus-mortis-cardinals-folly-mount-palatine-caskets-open-lippuja/122442",
+   "ticket_url": "https://www.tiketti.fi/spiritus-mortis-cardinals-folly-mount-palatine-caskets-open-lippuja/122442"
   },
   {
    "venue": "glivelab",
@@ -3208,19 +3168,27 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "12.11. louna0nline: starseed album tour",
+   "date": "2027-02-06",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-02-06/louna0nline-starseed-album-tour/122189/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "17.11. louna0nline: starseed album tour (S)",
+   "date": "2027-02-06",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-02-06/louna0nline-starseed-album-tour/122417/",
+   "ticket_url": null
+  },
+  {
    "venue": "savoy",
    "title": "Cía Flamenca La Lupi: Lo inédito – Helsingin XXVI Flamencofestivaali - XXVI Festival Flamenco de Helsinki",
    "date": "2027-02-06",
    "time": "17:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/2F0A9C87EAC5F828E46969E83E4FCF23/C_a_Flamenca_La_Lupi_Lo_in_dito",
-   "ticket_url": null
-  },
-  {
-   "venue": "tavastia",
-   "title": "louna0nline: starseed album tour",
-   "date": "2027-02-06",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-02-06/louna0nline-starseed-album-tour/122189/",
    "ticket_url": null
   },
   {
@@ -4297,7 +4265,7 @@
   },
   {
    "venue": "tavastia",
-   "title": "10.11. Wolf Parade (CAN)",
+   "title": "Wolf Parade (CAN)",
    "date": "2027-06-12",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-06-12/wolf-parade-can/122299/",
