@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:03:12+03:00",
+ "updated": "2026-11-24T17:35:13+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
@@ -16,7 +16,7 @@
   "kuudeslinja": {
    "name": "Kuudes Linja",
    "url": "https://kuudeslinja.com/",
-   "count": 21,
+   "count": 26,
    "status": "ok"
   },
   "aaniwalli": {
@@ -34,7 +34,7 @@
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 80,
+   "count": 83,
    "status": "ok"
   },
   "semifinal": {
@@ -100,7 +100,7 @@
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 78,
+   "count": 74,
    "status": "ok"
   },
   "vernissa": {
@@ -111,22 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "musiikkitalo",
-   "title": "Mutefest 2026: Concert #1",
-   "date": "2026-11-23",
-   "time": "18:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/mutefest-2026-concert-1-23-11-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Soiva urkuesittely",
-   "date": "2026-11-23",
-   "time": "17:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/soiva-urkuesittely-23-11-2026",
-   "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/16034/22868/"
-  },
   {
    "venue": "lepakkomies",
    "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
@@ -145,14 +129,6 @@
   },
   {
    "venue": "musiikkitalo",
-   "title": "Marraskuun opiskelijamatinea Musiikkitalossa",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/marraskuun-opiskelijamatinea-musiikkitalossa-24-11-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
    "title": "Mutefest 2026: Concert #2",
    "date": "2026-11-24",
    "time": "18:00",
@@ -165,14 +141,6 @@
    "date": "2026-11-24",
    "time": "20:00",
    "url": "https://barloose.com/live/pjk-klubi-backrooms-soft-guys-visio/",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Siban kahvikonsertit Musiikkitalossa: Nina Miettunen, Tobias Schenk & William Tarvainen",
-   "date": "2026-11-24",
-   "time": "14:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/siban-kahvikonsertit-musiikkitalossa-nina-miettunen-tobias-schenk-william-tarvainen-24-11-2026-2",
    "ticket_url": null
   },
   {
@@ -363,7 +331,7 @@
    "venue": "kuudeslinja",
    "title": "ALKULLAN KONSERTTI: DIE OBERHERREN (SE) + DHARMA GUNS + ROB COFFINSHAKER (SE)",
    "date": "2026-11-27",
-   "time": "19:00",
+   "time": "21:30",
    "url": "https://www.tiketti.fi/die-oberherren-swe-dharma-guns-kuudes-linja-helsinki-lippuja/119403",
    "ticket_url": "https://www.tiketti.fi/die-oberherren-swe-dharma-guns-kuudes-linja-helsinki-lippuja/119403"
   },
@@ -428,7 +396,7 @@
    "title": "Hamsa Jurisin piano-oppilaat esiintyvät",
    "date": "2026-11-27",
    "time": "19:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hamsa-jurisin-piano-oppilaat-esiintyvat-27-11-2026-2",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hamsa-jurisin-piano-oppilaat-esiintyvat-27-11-2026",
    "ticket_url": null
   },
   {
@@ -515,7 +483,7 @@
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: LALA SALAMA + HITES",
    "date": "2026-11-28",
-   "time": "19:00",
+   "time": "21:00",
    "url": "https://www.tiketti.fi/tapahtuma/120892",
    "ticket_url": "https://www.tiketti.fi/tapahtuma/120892"
   },
@@ -603,7 +571,7 @@
    "venue": "ontherocks",
    "title": "Neon Nights 80s Disco! DJ Anaheim",
    "date": "2026-11-28",
-   "time": "23:30",
+   "time": "23:00",
    "url": "https://www.rocks.fi/tapahtumat/neon-nights-80s-disco-dj-anaheim/",
    "ticket_url": null
   },
@@ -734,6 +702,14 @@
    "time": "19:00",
    "url": "https://www.rocks.fi/tapahtumat/anvil-can-killer-bel/",
    "ticket_url": "https://www.tiketti.fi/tapahtuma/117803"
+  },
+  {
+   "venue": "lepakkomies",
+   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
+   "date": "2026-12-01",
+   "time": "18:00",
+   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode-2/",
+   "ticket_url": null
   },
   {
    "venue": "semifinal",
@@ -1128,12 +1104,36 @@
    "ticket_url": "https://www.tiketti.fi/tapahtuma/120881"
   },
   {
+   "venue": "kuudeslinja",
+   "title": "KAMELIDISCO ESITTÄÄ: PITBULL SPECIAL CLUB NIGHT",
+   "date": "2026-12-07",
+   "time": "22:30",
+   "url": "https://kuudeslinja.com/",
+   "ticket_url": null
+  },
+  {
+   "venue": "lepakkomies",
+   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
+   "date": "2026-12-08",
+   "time": "18:00",
+   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode-3/",
+   "ticket_url": null
+  },
+  {
    "venue": "jaahalli",
    "title": "HIFK - Sport Klo 18:30",
    "date": "2026-12-08",
    "time": "18:30",
    "url": "https://helsinginjaahalli.fi/events/hifk-sport-21-01-klo-1830",
    "ticket_url": "https://www.ticketmaster.fi/event/hifk-sport-lippuja/1458688215"
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "KAMELIDISCO ESITTÄÄ: PITBULL SPECIAL CLUB NIGHT",
+   "date": "2026-12-08",
+   "time": "22:30",
+   "url": "https://kuudeslinja.com/",
+   "ticket_url": null
   },
   {
    "venue": "ontherocks",
@@ -1864,22 +1864,6 @@
    "ticket_url": null
   },
   {
-   "venue": "lepakkomies",
-   "title": "Neonya!! Party",
-   "date": "2026-12-18",
-   "time": "00:00",
-   "url": "https://www.lepis.fi/tapahtumat/neonya-party/",
-   "ticket_url": "https://www.tiketti.fi/neonya-party-lepakkomies-helsinki-lippuja/122553"
-  },
-  {
-   "venue": "lepakkomies",
-   "title": "Pelko + Pepita Vanni + Akseli Hiltunen & Kanssaloisaktivistit",
-   "date": "2026-12-18",
-   "time": "20:00",
-   "url": "https://www.lepis.fi/tapahtumat/pelko-pepita-vanni-akseli-hiltunen-kanssaloisaktivistit/",
-   "ticket_url": null
-  },
-  {
    "venue": "glivelab",
    "title": "Silmien Takana: Asla Jo – Tavoittelu, yhteisö ja nähdyksi tuleminen",
    "date": "2026-12-18",
@@ -1941,6 +1925,14 @@
    "date": "2026-12-19",
    "time": "20:00",
    "url": "https://tapahtumat.hel.fi/event/helsinki:agq7kuagpe",
+   "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "LADI",
+   "date": "2026-12-19",
+   "time": "23:30",
+   "url": "https://kuudeslinja.com/",
    "ticket_url": null
   },
   {
@@ -2598,6 +2590,22 @@
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-02-06/louna0nline-starseed-album-tour/122417/",
    "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "25.11. jambo",
+   "date": "2027-02-06",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-02-06/jambo/122539/",
+   "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "ALKUILLAN KONSERTTI: JOSÉN PIMEÄ PUOLI",
+   "date": "2027-02-06",
+   "time": "19:00",
+   "url": "https://www.tiketti.fi/josen-pimea-puoli-kuudes-linja-helsinki-lippuja/122621",
+   "ticket_url": "https://www.tiketti.fi/josen-pimea-puoli-kuudes-linja-helsinki-lippuja/122621"
   },
   {
    "venue": "savoy",
@@ -3280,6 +3288,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "26.11. DJ Ibusal - Kaikki koirat pääsee taivaaseen -levyjulkkarit",
+   "date": "2027-04-17",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-04-17/dj-ibusal/122391/",
+   "ticket_url": null
+  },
+  {
    "venue": "glivelab",
    "title": "Louie Blue + Pihalla",
    "date": "2027-04-17",
@@ -3317,6 +3333,14 @@
    "date": "2027-04-21",
    "time": "19:00",
    "url": "https://glivelab.fi/events/tamikrest-ml-6ac8c4c94ead0d22dd61948e/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "25.11. Ellinoora: Kotiinpaluu",
+   "date": "2027-04-23",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-04-23/ellinoora-kotiinpaluu/122701/",
    "ticket_url": null
   },
   {
@@ -3438,6 +3462,14 @@
    "time": "11:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/26A4C27AEBE8B7FE13DF2FCBB1D6F1B2/Jumppatytot_",
    "ticket_url": null
+  },
+  {
+   "venue": "kuudeslinja",
+   "title": "WINDHAND (US)",
+   "date": "2027-05-11",
+   "time": "18:00",
+   "url": "https://www.tiketti.fi/windhand-us-kuudes-linja-helsinki-lippuja/122689",
+   "ticket_url": "https://www.tiketti.fi/windhand-us-kuudes-linja-helsinki-lippuja/122689"
   },
   {
    "venue": "savoy",
