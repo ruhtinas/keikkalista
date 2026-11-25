@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:35:13+03:00",
+ "updated": "2026-11-25T16:55:15+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
@@ -10,7 +10,7 @@
   "savoy": {
    "name": "Savoy-teatteri",
    "url": "https://www.savoyteatteri.fi/fi/tapahtumat/tapahtumahaku",
-   "count": 64,
+   "count": 67,
    "status": "ok"
   },
   "kuudeslinja": {
@@ -70,7 +70,7 @@
   "jaahalli": {
    "name": "Helsingin Jäähalli",
    "url": "https://helsinginjaahalli.fi/tapahtumat",
-   "count": 18,
+   "count": 19,
    "status": "ok"
   },
   "barloose": {
@@ -100,7 +100,7 @@
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 74,
+   "count": 73,
    "status": "ok"
   },
   "vernissa": {
@@ -111,38 +111,6 @@
   }
  },
  "events": [
-  {
-   "venue": "lepakkomies",
-   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
-   "date": "2026-11-24",
-   "time": "18:00",
-   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode/",
-   "ticket_url": null
-  },
-  {
-   "venue": "savoy",
-   "title": "Jazzjoulu 2026!",
-   "date": "2026-11-24",
-   "time": "17:00",
-   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/1E8670DB3113CC6CAE7C814145AAAFAB/Jazzjoulu_2026_",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Mutefest 2026: Concert #2",
-   "date": "2026-11-24",
-   "time": "18:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/mutefest-2026-concert-2-24-11-2026-2",
-   "ticket_url": null
-  },
-  {
-   "venue": "barloose",
-   "title": "PJK Klubi: Backrooms, Soft Guys, Visio",
-   "date": "2026-11-24",
-   "time": "20:00",
-   "url": "https://barloose.com/live/pjk-klubi-backrooms-soft-guys-visio/",
-   "ticket_url": null
-  },
   {
    "venue": "tavastia",
    "title": "Aliisa Syrjä",
@@ -174,14 +142,6 @@
    "time": "19:00",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hko-ad-spiram-25-11-2026",
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15693/21888/"
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "HKO: Avoin kenraaliharjoitus – Ad Spiram",
-   "date": "2026-11-25",
-   "time": "10:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hko-avoin-kenraaliharjoitus-ad-spiram-25-11-2026",
-   "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15789/22202/"
   },
   {
    "venue": "ontherocks",
@@ -616,20 +576,20 @@
    "ticket_url": null
   },
   {
+   "venue": "tiivistamo",
+   "title": "****PERUTTU*** MOON WALKER (USA) (K18)",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "url": "https://tapahtumat.hel.fi/event/helsinki:agonz7gxqu",
+   "ticket_url": null
+  },
+  {
    "venue": "musiikkitalo",
    "title": "Korkea Laulu – Startup-Suomen runokonsertti",
    "date": "2026-11-29",
    "time": "19:00",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/korkea-laulu-startup-suomen-runokonsertti-29-11-2026",
    "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15853/22301/"
-  },
-  {
-   "venue": "tiivistamo",
-   "title": "MOON WALKER (USA) (K18)",
-   "date": "2026-11-29",
-   "time": "16:00",
-   "url": "https://tapahtumat.hel.fi/event/helsinki:agonz7gxqu",
-   "ticket_url": null
   },
   {
    "venue": "musiikkitalo",
@@ -1616,6 +1576,14 @@
    "ticket_url": null
   },
   {
+   "venue": "lepakkomies",
+   "title": "Ei pöllömpi pubivisa by Pöllö & Ode",
+   "date": "2026-12-15",
+   "time": "18:00",
+   "url": "https://www.lepis.fi/tapahtumat/ei-pollompi-pubivisa-by-pollo-ode-4/",
+   "ticket_url": null
+  },
+  {
    "venue": "musiikkitalo",
    "title": "Erkki Lahesmaan selloluokan konsertti",
    "date": "2026-12-15",
@@ -1872,6 +1840,14 @@
    "ticket_url": null
   },
   {
+   "venue": "barloose",
+   "title": "The Barefoot Brothers, Fox Confession, Sofia Memphis",
+   "date": "2026-12-18",
+   "time": "20:00",
+   "url": "https://barloose.com/live/9140/",
+   "ticket_url": null
+  },
+  {
    "venue": "olarinpanimo",
    "title": "Turbojugend Pohjois-Haaga 10-vuotta",
    "date": "2026-12-18",
@@ -2077,6 +2053,14 @@
    "date": "2026-12-31",
    "time": "17:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/DFA2795E41D4C83CB92185E1E5FAFC67/Savoyn_uusivuosi_Vilma_Jaa",
+   "ticket_url": null
+  },
+  {
+   "venue": "musiikkitalo",
+   "title": "Vuodenvaihteen aulatanssit",
+   "date": "2026-12-31",
+   "time": "15:00",
+   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/vuodenvaihteen-aulatanssit-31-12-2026",
    "ticket_url": null
   },
   {
@@ -2496,14 +2480,6 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "10.11. Reilukerho 20-vuotisjuhlakeikka",
-   "date": "2027-01-30",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-01-30/reilukerho-20-vuotisjuhlakeikka/122222/",
-   "ticket_url": null
-  },
-  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: PYRY LAAKSO + IRA",
    "date": "2027-01-30",
@@ -2525,6 +2501,22 @@
    "date": "2027-01-30",
    "time": "13:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/92F668285389CB951B7F21453AF30C93/Maagikot_6_The_Art_of_Illusion",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "Reilukerho 20-vuotisjuhlakeikka",
+   "date": "2027-01-30",
+   "time": "20:30",
+   "url": "https://tavastiaklubi.fi/events/2027-01-30/reilukerho-20-vuotisjuhlakeikka/122222/",
+   "ticket_url": null
+  },
+  {
+   "venue": "savoy",
+   "title": "UMO Helsinki Ensemble: Cryin' Blues – The Music of Eddie Harris – Lounaskonsertti",
+   "date": "2027-02-01",
+   "time": "10:00",
+   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/7481EEC216BC26B9EA0EBE471EE05F8E/UMO_Helsinki_Ensemble_Cryin_Blues_The_Music_of_Eddie_Harris",
    "ticket_url": null
   },
   {
@@ -2592,14 +2584,6 @@
    "ticket_url": null
   },
   {
-   "venue": "tavastia",
-   "title": "25.11. jambo",
-   "date": "2027-02-06",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-02-06/jambo/122539/",
-   "ticket_url": null
-  },
-  {
    "venue": "kuudeslinja",
    "title": "ALKUILLAN KONSERTTI: JOSÉN PIMEÄ PUOLI",
    "date": "2027-02-06",
@@ -2617,6 +2601,14 @@
   },
   {
    "venue": "tavastia",
+   "title": "jambo",
+   "date": "2027-02-06",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-02-06/jambo/122539/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
    "title": "Kiitos Katri Helena",
    "date": "2027-02-10",
    "time": "20:30",
@@ -2629,6 +2621,14 @@
    "date": "2027-02-10",
    "time": "19:00",
    "url": "https://glivelab.fi/events/merituuli-ilot-ja-huolet-saat-kaikesta-puolet-levy-6ad73a767e6125ccf25f9a65/",
+   "ticket_url": null
+  },
+  {
+   "venue": "savoy",
+   "title": "Musica Novan avajaiskonsertti: Märta T., Grooves and Grinds – Avanti!, Lautaro Mura Fuentealba, Petri Kumela",
+   "date": "2027-02-10",
+   "time": "17:00",
+   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/9F8CAFA9923665AB1AB3FB5276DDD9F8/Musica_Novan_avajaiskonsertti_Marta_T_Grooves_and_Grinds",
    "ticket_url": null
   },
   {
@@ -3113,9 +3113,9 @@
   },
   {
    "venue": "tavastia",
-   "title": "10.11. Bloodred Hourglass, Brymir, Pridian (EST)",
+   "title": "Bloodred Hourglass, Brymir, Pridian (EST)",
    "date": "2027-03-21",
-   "time": null,
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-03-21/bloodred-hourglass-brymir-pridian-est/122286/",
    "ticket_url": null
   },
@@ -3200,6 +3200,14 @@
    "ticket_url": null
   },
   {
+   "venue": "savoy",
+   "title": "UMO Helsinki Ensemble & Annimaria Rinne – Carola – Lounaskonsertti",
+   "date": "2027-04-01",
+   "time": "09:00",
+   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/7C5E47AE28F680B3A8279C828012F4B2/UMO_Helsinki_Ensemble_Annimaria_Rinne_Carola_",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "J. Karjalainen",
    "date": "2027-04-02",
@@ -3232,20 +3240,20 @@
    "ticket_url": null
   },
   {
+   "venue": "tavastia",
+   "title": "20.11. Mariska",
+   "date": "2027-04-10",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-04-10/mariska/122476/",
+   "ticket_url": null
+  },
+  {
    "venue": "aaniwalli",
    "title": "Anna Tsuchiya (JP)",
    "date": "2027-04-10",
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2027-04-10-anna_tsuchiya_jp",
    "ticket_url": "https://my.weezevent.com/anna-tsuchiya-helsinki"
-  },
-  {
-   "venue": "tavastia",
-   "title": "Mariska",
-   "date": "2027-04-10",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-04-10/mariska/122476/",
-   "ticket_url": null
   },
   {
    "venue": "savoy",
@@ -3270,6 +3278,14 @@
    "time": "16:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/01E5F9B83F876EF58D55446C039DC9A8/Macbeth_by_William_Shakespeare",
    "ticket_url": null
+  },
+  {
+   "venue": "jaahalli",
+   "title": "Mastodon",
+   "date": "2027-04-16",
+   "time": null,
+   "url": "https://helsinginjaahalli.fi/events/mastodon",
+   "ticket_url": "https://www.ticketmaster.fi/event/mastodon--the-poisonous-weapons-tour-lippuja/1027388145"
   },
   {
    "venue": "glivelab",
@@ -3337,7 +3353,7 @@
   },
   {
    "venue": "tavastia",
-   "title": "25.11. Ellinoora: Kotiinpaluu",
+   "title": "Ellinoora: Kotiinpaluu",
    "date": "2027-04-23",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-04-23/ellinoora-kotiinpaluu/122701/",
@@ -3453,7 +3469,7 @@
    "date": "2027-05-08",
    "time": null,
    "url": "https://www.aaniwalli.fi/events/2027-05-08-vesta",
-   "ticket_url": null
+   "ticket_url": "https://www.tiketti.fi/vesta-aaniwalli-helsinki-lippuja/122713"
   },
   {
    "venue": "savoy",
@@ -3536,10 +3552,18 @@
    "ticket_url": null
   },
   {
+   "venue": "savoy",
+   "title": "UMO Helsinki Jazz Orchestra – kapellimestarikurssin loppukonsertti – Lounaskonsertti",
+   "date": "2027-06-03",
+   "time": "09:00",
+   "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/4D71F22CD0CC7D4991EEDB7795B6B30B/UMO_Helsinki_Jazz_Orchestra_kapellimestarikurssin_loppukonsertti_",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
-   "title": "10.11. Wolf Parade (CAN)",
+   "title": "Wolf Parade (CAN)",
    "date": "2027-06-12",
-   "time": null,
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-06-12/wolf-parade-can/122299/",
    "ticket_url": null
   },
@@ -3595,7 +3619,7 @@
    "venue": "tavastia",
    "title": "Pohjola Heavy Jazz Group",
    "date": "2027-10-23",
-   "time": null,
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-10-23/pohjola-heavy-jazz-group/122117/",
    "ticket_url": null
   },
