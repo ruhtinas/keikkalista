@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:34:18+03:00",
+ "updated": "2026-11-27T16:31:28+03:00",
  "venues": {
   "kulttuuritalo": {
    "name": "Kulttuuritalo",
@@ -28,19 +28,19 @@
   "glivelab": {
    "name": "G Livelab Helsinki",
    "url": "https://glivelab.fi/",
-   "count": 49,
+   "count": 51,
    "status": "ok"
   },
   "tavastia": {
    "name": "Tavastia",
    "url": "https://tavastiaklubi.fi/",
-   "count": 82,
+   "count": 83,
    "status": "ok"
   },
   "semifinal": {
    "name": "Semifinal",
    "url": "https://tavastiaklubi.fi/semifinal",
-   "count": 19,
+   "count": 18,
    "status": "ok"
   },
   "korjaamo": {
@@ -70,7 +70,7 @@
   "jaahalli": {
    "name": "Helsingin Jäähalli",
    "url": "https://helsinginjaahalli.fi/tapahtumat",
-   "count": 18,
+   "count": 19,
    "status": "ok"
   },
   "barloose": {
@@ -94,13 +94,13 @@
   "tiivistamo": {
    "name": "Tiivistämö",
    "url": "https://tiivistamo.fi/tapahtumat/",
-   "count": 16,
+   "count": 19,
    "status": "ok"
   },
   "musiikkitalo": {
    "name": "Musiikkitalo",
    "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat",
-   "count": 69,
+   "count": 64,
    "status": "ok"
   },
   "vernissa": {
@@ -112,67 +112,11 @@
  },
  "events": [
   {
-   "venue": "musiikkitalo",
-   "title": "HKO – Pieni alkusoitto",
-   "date": "2026-11-26",
-   "time": "18:15",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hko-pieni-alkusoitto-26-11-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "HKO: Ad Spiram",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/hko-ad-spiram-26-11-2026",
-   "ticket_url": "https://liput.musiikkitalo.fi/fi/buyingflow/tickets/15694/21889/"
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Maisterikonsertti: Jaakko Jukonen, harmonikka",
-   "date": "2026-11-26",
-   "time": "19:30",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/maisterikonsertti-jaakko-jukonen-harmonikka-26-11-2026",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Maisterikonsertti: Leonardo Rojnic, harmonikka",
-   "date": "2026-11-26",
-   "time": "17:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/maisterikonsertti-leonardo-rojnic-harmonikka-26-11-2026",
-   "ticket_url": null
-  },
-  {
    "venue": "olarinpanimo",
    "title": "Pubivisa 26.11.2026 – spessuteemana mukaansa­tempaava urheilu",
    "date": "2026-11-26",
    "time": "08:00",
    "url": "https://olarinpanimo.fi/tapahtuma/pubivisa-26-11-2026-spessuteemana-mukaansatempaava-urheilu/",
-   "ticket_url": null
-  },
-  {
-   "venue": "semifinal",
-   "title": "Röge",
-   "date": "2026-11-26",
-   "time": "19:45",
-   "url": "https://tavastiaklubi.fi/events/2026-11-26/roge/121193/",
-   "ticket_url": null
-  },
-  {
-   "venue": "barloose",
-   "title": "SPORT, Raskaat Silmät, Outi ja olevaiset",
-   "date": "2026-11-26",
-   "time": "19:30",
-   "url": "https://barloose.com/live/sport-raskaat-silmat-outi-ja-olevaiset/",
-   "ticket_url": null
-  },
-  {
-   "venue": "musiikkitalo",
-   "title": "Ur­ku­ma­ti­nea",
-   "date": "2026-11-26",
-   "time": "18:00",
-   "url": "https://musiikkitalo.fi/konsertit-ja-tapahtumat/urkumatinea-26-11-2026",
    "ticket_url": null
   },
   {
@@ -411,7 +355,7 @@
    "venue": "semifinal",
    "title": "What Awaits Us, Traitors Among Us, Ashes of Perishing",
    "date": "2026-11-28",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-11-28/what-awaits-us-traitors-among-us-ashes-of-perishing/122061/",
    "ticket_url": null
   },
@@ -483,7 +427,7 @@
    "venue": "semifinal",
    "title": "Kuudesta Kymmeneen",
    "date": "2026-12-01",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-01/kuudesta-kymmeneen/120770/",
    "ticket_url": null
   },
@@ -555,7 +499,7 @@
    "venue": "semifinal",
    "title": "Club Eternal Flame",
    "date": "2026-12-03",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-03/club-eternal-flame/119867/",
    "ticket_url": null
   },
@@ -651,7 +595,7 @@
    "venue": "semifinal",
    "title": "LEFT",
    "date": "2026-12-04",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-04/left/121556/",
    "ticket_url": null
   },
@@ -673,7 +617,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "SOLI KPOP CLUB – REDRED HOLIDAY",
+   "title": "SOLI KPOP CLUB âÂ REDRED HOLIDAY",
    "date": "2026-12-04",
    "time": "23:15",
    "url": "https://www.eventu.al/en/event/9346/finland/helsinki/soli",
@@ -801,7 +745,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "KAMELIDISCO ESITTÄÄ: PITBULL SPECIAL CLUB NIGHT",
+   "title": "KAMELIDISCO ESITTÃÃ: PITBULL SPECIAL CLUB NIGHT",
    "date": "2026-12-07",
    "time": "22:30",
    "url": "https://kuudeslinja.com/",
@@ -817,10 +761,18 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "KAMELIDISCO ESITTÄÄ: PITBULL SPECIAL CLUB NIGHT",
+   "title": "KAMELIDISCO ESITTÃÃ: PITBULL SPECIAL CLUB NIGHT",
    "date": "2026-12-08",
    "time": "22:30",
    "url": "https://kuudeslinja.com/",
+   "ticket_url": null
+  },
+  {
+   "venue": "barloose",
+   "title": "PJK Klubi: Aarnin Ajatukset, This Moody Sky Today (Joni Mitchell -tribuutti), LANSSI!",
+   "date": "2026-12-08",
+   "time": "19:30",
+   "url": "https://barloose.com/live/pjk-klubi-aarnin-ajatukset-this-moody-sky-today-joni-mitchell-tribuutti-lanssi/",
    "ticket_url": null
   },
   {
@@ -859,7 +811,7 @@
    "venue": "semifinal",
    "title": "Joka v*tun keskiviikko: Teemu Vesterinen",
    "date": "2026-12-09",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-09/joka-vtun-keskiviikko-teemu-vesterinen/121640/",
    "ticket_url": null
   },
@@ -1635,7 +1587,7 @@
    "venue": "semifinal",
    "title": "Kosto (EP-julkkarit), Arseeni",
    "date": "2026-12-26",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2026-12-26/kosto-ep-julkkarit-arseeni/121117/",
    "ticket_url": null
   },
@@ -1755,7 +1707,7 @@
    "venue": "semifinal",
    "title": "Muddy Moonshine, Northeast Gale, Psykentucky",
    "date": "2027-01-07",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-01-07/muddy-moonshine-northeast-gale-psykentucky/121730/",
    "ticket_url": null
   },
@@ -1777,7 +1729,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: PEER GÜNT + BLINDBOÜND",
+   "title": "ALKUILLAN KONSERTTI: PEER GÃNT + BLINDBOÃND",
    "date": "2027-01-08",
    "time": "19:00",
    "url": "https://www.tiketti.fi/peer-gunt-blindbound-kuudes-linja-helsinki-lippuja/121948",
@@ -1787,7 +1739,7 @@
    "venue": "semifinal",
    "title": "Einvigi, The Mist from the Mountains, Venenum Dei + DJ Melkor",
    "date": "2027-01-08",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-01-08/einvigi-the-mist-from-the-mountains-venunum-dei/120784/",
    "ticket_url": null
   },
@@ -1825,7 +1777,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: BAD APPLES PLAYS GUNS N’ ROSES + MUSEO PLAYS MUSE",
+   "title": "ALKUILLAN KONSERTTI: BAD APPLES PLAYS GUNS Nâ ROSES + MUSEO PLAYS MUSE",
    "date": "2027-01-09",
    "time": "19:00",
    "url": "https://www.tiketti.fi/bad-apples-plays-guns-n-roses-museo-plays-muse-kuudes-linja-lippuja/121701",
@@ -1913,7 +1865,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: DEMONIC DEATH JUDGE – SEAWEED 10 YEAR ANNIVERSARY + SUNNIVA + ELEKTRUS EREKTUS",
+   "title": "ALKUILLAN KONSERTTI: DEMONIC DEATH JUDGE â SEAWEED 10 YEAR ANNIVERSARY + SUNNIVA + ELEKTRUS EREKTUS",
    "date": "2027-01-16",
    "time": "19:00",
    "url": "https://www.tiketti.fi/demonic-death-judge-sunniva-elektrus-erektus-kuudes-linja-lippuja/121367",
@@ -2099,7 +2051,7 @@
    "venue": "semifinal",
    "title": "Helsinski (Levyjulkkarit)",
    "date": "2027-01-29",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-01-29/helsinski-levyjulkkarit/120804/",
    "ticket_url": null
   },
@@ -2185,7 +2137,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: TERVEET KÄDET (SUBTERRA-LEVYJULKKARIT)",
+   "title": "ALKUILLAN KONSERTTI: TERVEET KÃDET (SUBTERRA-LEVYJULKKARIT)",
    "date": "2027-02-05",
    "time": "19:00",
    "url": "https://www.tiketti.fi/terveet-kadet-kuudes-linja-helsinki-lippuja/121702",
@@ -2209,14 +2161,6 @@
   },
   {
    "venue": "tavastia",
-   "title": "12.11. louna0nline: starseed album tour",
-   "date": "2027-02-06",
-   "time": null,
-   "url": "https://tavastiaklubi.fi/events/2027-02-06/louna0nline-starseed-album-tour/122189/",
-   "ticket_url": null
-  },
-  {
-   "venue": "tavastia",
    "title": "17.11. louna0nline: starseed album tour (S)",
    "date": "2027-02-06",
    "time": null,
@@ -2225,7 +2169,7 @@
   },
   {
    "venue": "kuudeslinja",
-   "title": "ALKUILLAN KONSERTTI: JOSÉN PIMEÄ PUOLI",
+   "title": "ALKUILLAN KONSERTTI: JOSÃN PIMEÃ PUOLI",
    "date": "2027-02-06",
    "time": "19:00",
    "url": "https://www.tiketti.fi/josen-pimea-puoli-kuudes-linja-helsinki-lippuja/122621",
@@ -2245,6 +2189,14 @@
    "date": "2027-02-06",
    "time": null,
    "url": "https://tavastiaklubi.fi/events/2027-02-06/jambo/122539/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "louna0nline: starseed album tour",
+   "date": "2027-02-06",
+   "time": "20:30",
+   "url": "https://tavastiaklubi.fi/events/2027-02-06/louna0nline-starseed-album-tour/122189/",
    "ticket_url": null
   },
   {
@@ -2408,11 +2360,27 @@
    "ticket_url": "https://www.eventu.al/en/event/11200/finland/helsinki/void-presents-simula-uk"
   },
   {
+   "venue": "glivelab",
+   "title": "Ullalintulampi (levynjulkkarit) + Ahti Kulo",
+   "date": "2027-02-20",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/ullalintulampi-levynjulkkarit-ahti-kulo-6ad73abb7e6125ccf25f9ca7/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "VIIVI",
    "date": "2027-02-20",
    "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-02-20/viivi/118315/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tiivistamo",
+   "title": "K-pop On The Stage - karsinnat (S)",
+   "date": "2027-02-21",
+   "time": "11:00",
+   "url": "https://www.instagram.com/kpoponthestage/",
    "ticket_url": null
   },
   {
@@ -2691,7 +2659,7 @@
    "venue": "semifinal",
    "title": "The Arki",
    "date": "2027-03-13",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-03-13/the-arki/121626/",
    "ticket_url": null
   },
@@ -2832,6 +2800,14 @@
    "ticket_url": null
   },
   {
+   "venue": "tiivistamo",
+   "title": "K-pop On The Stage - Finaali (S)",
+   "date": "2027-03-27",
+   "time": "14:00",
+   "url": "https://www.instagram.com/kpoponthestage/",
+   "ticket_url": null
+  },
+  {
    "venue": "tavastia",
    "title": "Saul Williams (USA)",
    "date": "2027-03-29",
@@ -2872,6 +2848,14 @@
    "ticket_url": null
   },
   {
+   "venue": "jaahalli",
+   "title": "PEHMOAINO",
+   "date": "2027-04-03",
+   "time": null,
+   "url": "https://helsinginjaahalli.fi/events/pehmoaino",
+   "ticket_url": null
+  },
+  {
    "venue": "glivelab",
    "title": "R.E.M. For The People plays Automatic For The People",
    "date": "2027-04-03",
@@ -2885,6 +2869,14 @@
    "date": "2027-04-07",
    "time": "19:00",
    "url": "https://glivelab.fi/events/charlie-hunter-ella-feingold-us-6ac3993ff64d5bd670d69c5a/",
+   "ticket_url": null
+  },
+  {
+   "venue": "glivelab",
+   "title": "Myrtsi + Oliver Bentley",
+   "date": "2027-04-09",
+   "time": "20:00",
+   "url": "https://glivelab.fi/events/myrtsi-oliver-bentley-6afb0b8ffcccb054e456906e/",
    "ticket_url": null
   },
   {
@@ -2987,7 +2979,7 @@
    "venue": "semifinal",
    "title": "Tramhaus (NL)",
    "date": "2027-04-20",
-   "time": "19:45",
+   "time": "20:30",
    "url": "https://tavastiaklubi.fi/events/2027-04-20/tramhaus-nl/119101/",
    "ticket_url": null
   },
@@ -2997,6 +2989,14 @@
    "date": "2027-04-21",
    "time": "19:00",
    "url": "https://glivelab.fi/events/tamikrest-ml-6ac8c4c94ead0d22dd61948e/",
+   "ticket_url": null
+  },
+  {
+   "venue": "tiivistamo",
+   "title": "ZERA (JAP) (S)",
+   "date": "2027-04-21",
+   "time": "16:00",
+   "url": "https://tapahtumat.hel.fi/event/helsinki:agrbzgbgda",
    "ticket_url": null
   },
   {
@@ -3085,6 +3085,14 @@
    "date": "2027-05-05",
    "time": "00:00",
    "url": "http://www.savoyteatteri.fi/fi/tapahtumat/event/0F911AB8BDB3A7362E491AEFA91DF483/We_Jazz_presents_Nik_Bartsch_s_RONIN",
+   "ticket_url": null
+  },
+  {
+   "venue": "tavastia",
+   "title": "1.12. Thurston Moore Group (US/UK)",
+   "date": "2027-05-06",
+   "time": null,
+   "url": "https://tavastiaklubi.fi/events/2027-05-06/thurston-moore-group-usuk/122618/",
    "ticket_url": null
   },
   {
